@@ -6,6 +6,5 @@ dist/
 .env
 .env.local
 
-# Médias scrapés (lourds) — ne pas committer (images sur Cloudflare R2)
-scraper/data/
-scraper/download_errors.log
+# Pipeline de données (hors dépôt)
+scraper/

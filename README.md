@@ -30,7 +30,7 @@ Front 100 % statique → **Cloudflare Pages**. Les images des questions sont ser
   `{CAT}.json` par catégorie (corrigés + URLs des images).
 - Les **~34 000 images** (question / scène / réponse) vivent sur **R2** et ne sont pas embarquées
   dans le build (Cloudflare Pages plafonne à 20 000 fichiers).
-- Pipeline de récupération + génération : voir **`scraper/README_codedelaroute.md`**.
+- Les fichiers de données (`app/public/data/`) sont générés hors dépôt et versionnés tels quels.
 
 ## Développement
 ```bash
@@ -46,7 +46,7 @@ cd app
 npm run build
 npx wrangler pages deploy dist --project-name=code-route-tn
 ```
-`public/_redirects` gère le routing SPA. La page est en `noindex` (projet pédagogique / portfolio).
+`public/_redirects` gère le routing SPA.
 
 ---
 > Projet à but **pédagogique / portfolio**. Conçu par
