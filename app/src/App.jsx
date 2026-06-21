@@ -135,7 +135,7 @@ export default function App() {
           </figure>
         </section>
 
-        <CategoryBar catalog={catalog} catId={cat?.id} onPick={pickCat} />
+        <CategoryBar catalog={catalog} catId={cat?.id} onPick={pickCat} lang={lang} />
         {isImageCat && (
           <div className="lang-row">
             <LangToggle lang={lang} onPick={pickLang} available={catLangs} />

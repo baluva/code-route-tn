@@ -267,13 +267,22 @@ a:hover { text-decoration: underline; }
   padding: 12px 14px; background: var(--tar2); border: 1px solid var(--edge); border-radius: 14px; }
 .catbar-lbl { flex: none; font-size: 11px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase;
   color: var(--ink3); }
-.catchips { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 2px; scrollbar-width: thin; }
-.catchip { flex: none; display: inline-flex; align-items: center; gap: 8px;
+.catchips { display: flex; gap: 9px; overflow-x: auto; flex: 1; min-width: 0; padding-bottom: 5px;
+  scrollbar-width: thin; scrollbar-color: var(--edge2) transparent; -webkit-overflow-scrolling: touch;
+  scroll-snap-type: x proximity; }
+.catchips::-webkit-scrollbar { height: 6px; }
+.catchips::-webkit-scrollbar-thumb { background: var(--edge2); border-radius: 99px; }
+.catchips::-webkit-scrollbar-track { background: transparent; }
+.catchip { flex: none; scroll-snap-align: start; display: inline-flex; align-items: center; gap: 8px;
   background: var(--tar3); border: 1.5px solid var(--edge); color: var(--ink2);
-  padding: 8px 13px; border-radius: 99px; font-size: 13.5px; font-weight: 700; transition: .15s; white-space: nowrap; }
+  padding: 9px 14px; border-radius: 12px; font-size: 13.5px; font-weight: 700; transition: .15s; white-space: nowrap; }
 .catchip:hover:not(.active) { border-color: var(--edge2); color: var(--ink); }
-.catchip.active { background: var(--mark); color: #161616; border-color: var(--mark); }
-.catchip-ic { font-size: 16px; }
+.catchip.active { background: var(--mark); color: #161616; border-color: var(--mark); box-shadow: 0 4px 16px rgba(245,197,24,.22); }
+.catchip-ic { width: 20px; height: 20px; flex: none; }
+.catchip-code { font-family: var(--disp); font-weight: 800; font-size: 11.5px; letter-spacing: .02em;
+  padding: 1px 6px; border-radius: 6px; background: rgba(255,255,255,.06); }
+.catchip.active .catchip-code { background: rgba(0,0,0,.16); }
+.catchip-lbl { white-space: nowrap; }
 .catchip-n { font-size: 10.5px; font-weight: 800; background: rgba(0,0,0,.22); color: inherit;
   padding: 1px 7px; border-radius: 99px; }
 .catchip:not(.active) .catchip-n { background: var(--tar2); color: var(--ink3); }
@@ -365,7 +374,9 @@ a:hover { text-decoration: underline; }
   .exam-meta { grid-template-columns: repeat(2, 1fr); }
   .enonce { font-size: 21px; }
   .review-item img { width: 86px; }
-  .catbar { flex-direction: column; align-items: flex-start; gap: 8px; }
+  .catbar { flex-direction: column; align-items: stretch; gap: 10px; }
+  .catchips { width: 100%; }
+  .catchip { padding: 10px 13px; }
   .choices.ar .choice { min-height: 72px; }
   .vip-pitch { grid-template-columns: 1fr; }
   .hero { grid-template-columns: 1fr; gap: 22px; }
