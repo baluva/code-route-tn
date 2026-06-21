@@ -1,0 +1,319 @@
+{
+ "base": "https://pub-60b9cbef42c14438963da81d66a093cf.r2.dev/code-route/",
+ "categories": [
+  {
+   "id": "A",
+   "icon": "🏍️",
+   "label": "A — moto",
+   "langs": [
+    "fr",
+    "ar"
+   ],
+   "subcatsByLang": {
+    "fr": [
+     {
+      "slug": "examen",
+      "label": "Examen",
+      "type": "examen",
+      "series": 10,
+      "questions": 300
+     }
+    ],
+    "ar": [
+     {
+      "slug": "imtihan",
+      "label": "Examen",
+      "type": "examen",
+      "series": 10,
+      "questions": 300
+     },
+     {
+      "slug": "exo_a",
+      "label": "Exercices A",
+      "type": "exercice",
+      "series": 2,
+      "questions": 60
+     },
+     {
+      "slug": "exo_aa",
+      "label": "Exercices A+",
+      "type": "exercice",
+      "series": 3,
+      "questions": 90
+     }
+    ]
+   },
+   "data": "data/crt/A.json",
+   "questions": 750
+  },
+  {
+   "id": "B",
+   "icon": "🚗",
+   "label": "B — voiture",
+   "langs": [
+    "fr",
+    "ar"
+   ],
+   "subcatsByLang": {
+    "fr": [
+     {
+      "slug": "examen",
+      "label": "Examen",
+      "type": "examen",
+      "series": 28,
+      "questions": 840
+     }
+    ],
+    "ar": [
+     {
+      "slug": "imtihan",
+      "label": "Examen",
+      "type": "examen",
+      "series": 28,
+      "questions": 840
+     }
+    ]
+   },
+   "data": "data/crt/B.json",
+   "questions": 1680
+  },
+  {
+   "id": "G",
+   "icon": "🚜",
+   "label": "G — tracteur agricole",
+   "langs": [
+    "fr",
+    "ar"
+   ],
+   "subcatsByLang": {
+    "fr": [
+     {
+      "slug": "examen",
+      "label": "Examen",
+      "type": "examen",
+      "series": 24,
+      "questions": 720
+     },
+     {
+      "slug": "exercices_g",
+      "label": "Exercices G",
+      "type": "exercice",
+      "series": 4,
+      "questions": 120
+     }
+    ],
+    "ar": [
+     {
+      "slug": "imtihan",
+      "label": "Examen",
+      "type": "examen",
+      "series": 24,
+      "questions": 720
+     },
+     {
+      "slug": "exo_g",
+      "label": "Exercices G",
+      "type": "exercice",
+      "series": 4,
+      "questions": 120
+     }
+    ]
+   },
+   "data": "data/crt/G.json",
+   "questions": 1680
+  },
+  {
+   "id": "C",
+   "icon": "🚚",
+   "label": "C — poids lourd",
+   "langs": [
+    "fr",
+    "ar"
+   ],
+   "subcatsByLang": {
+    "fr": [
+     {
+      "slug": "examen",
+      "label": "Examen",
+      "type": "examen",
+      "series": 24,
+      "questions": 720
+     },
+     {
+      "slug": "exercices_c",
+      "label": "Exercices C",
+      "type": "exercice",
+      "series": 5,
+      "questions": 150
+     }
+    ],
+    "ar": [
+     {
+      "slug": "imtihan",
+      "label": "Examen",
+      "type": "examen",
+      "series": 24,
+      "questions": 720
+     },
+     {
+      "slug": "exo_c",
+      "label": "Exercices C",
+      "type": "exercice",
+      "series": 5,
+      "questions": 150
+     }
+    ]
+   },
+   "data": "data/crt/C.json",
+   "questions": 1740
+  },
+  {
+   "id": "CE",
+   "icon": "🚛",
+   "label": "CE — poids lourd + remorque",
+   "langs": [
+    "fr",
+    "ar"
+   ],
+   "subcatsByLang": {
+    "fr": [
+     {
+      "slug": "examen",
+      "label": "Examen",
+      "type": "examen",
+      "series": 24,
+      "questions": 840
+     },
+     {
+      "slug": "exercices_ce",
+      "label": "Exercices CE",
+      "type": "exercice",
+      "series": 2,
+      "questions": 70
+     }
+    ],
+    "ar": [
+     {
+      "slug": "imtihan",
+      "label": "Examen",
+      "type": "examen",
+      "series": 24,
+      "questions": 840
+     },
+     {
+      "slug": "exo_ce",
+      "label": "Exercices CE",
+      "type": "exercice",
+      "series": 2,
+      "questions": 70
+     }
+    ]
+   },
+   "data": "data/crt/CE.json",
+   "questions": 1820
+  },
+  {
+   "id": "D",
+   "icon": "🚌",
+   "label": "D — transport en commun",
+   "langs": [
+    "fr",
+    "ar"
+   ],
+   "subcatsByLang": {
+    "fr": [
+     {
+      "slug": "examen",
+      "label": "Examen",
+      "type": "examen",
+      "series": 24,
+      "questions": 840
+     },
+     {
+      "slug": "exercices_d",
+      "label": "Exercices D",
+      "type": "exercice",
+      "series": 3,
+      "questions": 105
+     }
+    ],
+    "ar": [
+     {
+      "slug": "imtihan",
+      "label": "Examen",
+      "type": "examen",
+      "series": 24,
+      "questions": 840
+     },
+     {
+      "slug": "exo_d",
+      "label": "Exercices D",
+      "type": "exercice",
+      "series": 3,
+      "questions": 105
+     }
+    ]
+   },
+   "data": "data/crt/D.json",
+   "questions": 1890
+  },
+  {
+   "id": "BE",
+   "icon": "🚙",
+   "label": "BE — voiture + remorque",
+   "langs": [
+    "ar"
+   ],
+   "subcatsByLang": {
+    "fr": [],
+    "ar": [
+     {
+      "slug": "imtihan",
+      "label": "Examen",
+      "type": "examen",
+      "series": 24,
+      "questions": 720
+     },
+     {
+      "slug": "exo_be",
+      "label": "Exercices BE",
+      "type": "exercice",
+      "series": 3,
+      "questions": 90
+     }
+    ]
+   },
+   "data": "data/crt/BE.json",
+   "questions": 810
+  },
+  {
+   "id": "DE",
+   "icon": "🚎",
+   "label": "DE — bus + remorque",
+   "langs": [
+    "ar"
+   ],
+   "subcatsByLang": {
+    "fr": [],
+    "ar": [
+     {
+      "slug": "imtihan",
+      "label": "Examen",
+      "type": "examen",
+      "series": 24,
+      "questions": 840
+     },
+     {
+      "slug": "exo_d",
+      "label": "Exercices D",
+      "type": "exercice",
+      "series": 3,
+      "questions": 105
+     }
+    ]
+   },
+   "data": "data/crt/DE.json",
+   "questions": 945
+  }
+ ]
+}

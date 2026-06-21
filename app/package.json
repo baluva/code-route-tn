@@ -1,0 +1,20 @@
+{
+  "name": "code-route-tn",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Entraînement au code de la route tunisien : 15 séries de 30 questions, examen blanc chronométré, progression locale. Données issues des séries officielles ATTT.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}

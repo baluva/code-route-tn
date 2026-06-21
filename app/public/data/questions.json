@@ -1,0 +1,6163 @@
+[
+ {
+  "serie": 1,
+  "q": 1,
+  "question": "يمكن إستعمال هذا الهاتف",
+  "options": [
+   "لقضاء حاجة شخصية",
+   "لإعلام طبيب",
+   "في حالة عطب"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie1/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 2,
+  "question": "تتغير جهة الوقوف كل يوم",
+  "options": [
+   "بين الساعة الثامنة و الثامنة و النصف ليلا",
+   "بين الساعة الثامنة و النصف و الساعة التاسعة ليلا",
+   "بين الساعة التاسعة و التاسعة و النصف ليلا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie1/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 3,
+  "question": "يطبّق تحديد السرعة",
+  "options": [
+   "فورا",
+   "على بعد 50 مترا",
+   "على بعد 100 مترا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie1/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 4,
+  "question": "تشير هذه العلامة إلى",
+  "options": [
+   "منع المجاوزة",
+   "نهاية منع المجاوزة",
+   "نهاية معبد ذو اتجاه واحد"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie1/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 5,
+  "question": "إخراج المصاب من السيارة بصفة استعجالية ضروري إذا",
+  "options": [
+   "كان المصاب تحت طائلة خطر محدق",
+   "كان المصاب فاقدا للوعي",
+   "حصل نزيف دموي"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie1/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 6,
+  "question": "لتفادي الإبهار يمكنني",
+  "options": [
+   "تشغيل أضواء الطريق",
+   "استعمال المنبهات الضوئية",
+   "تشغيل أضواء الضباب الأمامية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie1/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 7,
+  "question": "ينصح بالزيادة في ضغط العجلات قبل القيام بسفرة طويلة",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie1/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 8,
+  "question": "عندما أسير وراء هذه العربة بسرعة 110 كلم في الساعة يجب علي أن أترك مسافة أمان لا تقل عن",
+  "options": [
+   "33 مترا",
+   "50 مترا",
+   "66 مترا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie1/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 9,
+  "question": "يمكنني الوقوف وراء العربة الرمادية",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie1/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 10,
+  "question": "بمنحدر طويل و لتفادي سخونة سريعة للفرامل",
+  "options": [
+   "أفرمل بصفة متقطعة",
+   "أستعمل فرملة المحرك",
+   "أستعمل الفرامل اليدوية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie1/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 11,
+  "question": "رفض الخضوع إلى إجراء إثبات الحالة الكحولية يؤدي إلى",
+  "options": [
+   "وضع العربة بالمستودع البلدي",
+   "توقيف العربة على الفور",
+   "إلغاء رخصة السياقة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie1/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 12,
+  "question": "بعد هذه العلامة",
+  "options": [
+   "سأترك الأولوية إلى اليمين",
+   "سأترك الأولوية إلى اليسار",
+   "سأمر دون أن أترك الأولوية"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie1/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 13,
+  "question": "يمكنني مواصلة إستعمال أضواء الطريق",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie1/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 14,
+  "question": "هذه العـلامـة تشـير إلى",
+  "options": [
+   "محطـة حافـلات",
+   "مسلك مخصص للحافلات",
+   "مسلك مخصص للعربات البطيئة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie1/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 15,
+  "question": "بداية هذه العـلامة أقـصـى سرعـة مسموح بها هي",
+  "options": [
+   "50 كلم في الساعة",
+   "70 كلم في الساعة",
+   "90 كلم في الساعة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie1/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 16,
+  "question": "أثناء مسـافة طويلة ينصـح بالتوقف بعد فترة",
+  "options": [
+   "2 ساعات",
+   "4 ساعات",
+   "6 ساعات"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie1/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 17,
+  "question": "يرتكب السائق الذي يسير دون استعمال الأضواء عند وجود ضباب",
+  "options": [
+   "مخـالفة عادية",
+   "مخـالفة خطيرة",
+   "جنحة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie1/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 18,
+  "question": "ينتقل الضوء من الأخضر إلى البرتقالي",
+  "options": [
+   "أمر بحذر",
+   "أترك الأولوية لليمين",
+   "أتوقف"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie1/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 19,
+  "question": "للمجاوزة أبتعد مسافة لا تقل عن",
+  "options": [
+   "2 متر",
+   "1.5 متر",
+   "1 متر"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie1/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 20,
+  "question": "يجب أن تحمل العربة الصهريجية الناقلة لمواد خطرة لوحة برتقالية",
+  "options": [
+   "من الأمام فقط",
+   "من الخلف فقط",
+   "من الأمام و من الخلف"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie1/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 21,
+  "question": "هذه العلامة تعلن عن مسلك خاص بـ",
+  "options": [
+   "الدراجات",
+   "الدراجات النارية المتوسطة",
+   "الدراجات النارية الكبيرة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie1/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 22,
+  "question": "إذا أتجاوز هذا التحديد للسرعة بـ30 كلم في الساعة أتعرض إلى",
+  "options": [
+   "خطية مالية",
+   "خصم 3 نقاط",
+   "خطية مالية و خصم 3 نقاط"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie1/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 23,
+  "question": "للمحافظة على البطارية في حالة شحن يجب تغيير السائل بانتظام",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie1/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 24,
+  "question": "عندما تزيد السرعة أزيد مسافة الأمان",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie1/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 25,
+  "question": "على بعد 300 متر سوف أغادر",
+  "options": [
+   "طريق ذات أولوية",
+   "تغيير اتجاه جولان",
+   "مسلك وقتي"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie1/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 26,
+  "question": "يجب إخلاء عربة متضررة في حادث عن المعبد و محيطه في أجل لا يتجاوز",
+  "options": [
+   "3 أيام",
+   "5 أيام",
+   "7 أيام"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie1/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 27,
+  "question": "في هذه الطريق الضيقة يجب علي تسهيل مرور الشاحنات الثقيلة",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie1/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 28,
+  "question": "للإنعطاف إلى اليسار",
+  "options": [
+   "أستعمل المسلك الأيمن",
+   "أستعمل المسلك الأيسر",
+   "أبقى بهذا المسلك"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie1/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 29,
+  "question": "هذا التقاطع للطريق مع سكة حديدية به",
+  "options": [
+   "سكة حديدية واحدة",
+   "أكثر من سكة حديدية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie1/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 1,
+  "q": 30,
+  "question": "أنعطف إلى اليسار",
+  "options": [
+   "أمر",
+   "أتوقف"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie1/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 1,
+  "question": "في هذا المرتفع",
+  "options": [
+   "أسهل مرور السيارة الصفراء",
+   "أنحاز إلى اليمين و أمر",
+   "أنحاز إلى اليمين و أتوقف"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie2/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 2,
+  "question": "",
+  "options": [
+   "أمر",
+   "أتوقف"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie2/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 3,
+  "question": "بالليل عندما يكون الطقس صاف يجب أن تشاهد أضواء الوضعية على بعد",
+  "options": [
+   "50 مترا",
+   "100 مترا",
+   "150 مترا"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie2/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 4,
+  "question": "يمكنني المجاوزة",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie2/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 5,
+  "question": "الضوء ينتقل من الأخضر إلى البرتقالي",
+  "options": [
+   "أترك الأولوية إلى اليمين",
+   "أمر بحذر",
+   "أتوقف"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie2/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 6,
+  "question": "قبل أن أتجاوز يجب علي دائما",
+  "options": [
+   "تشغيل ضوء تغيير الإتجاه",
+   "القيام بالتنبيه الضوئي",
+   "إستعمال المنبه الصوتي"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie2/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 7,
+  "question": "يجب القيام بالضغط اليدوي المباشر إلى حين توقف النزيف",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie2/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 8,
+  "question": "في هذه الوضعية",
+  "options": [
+   "أستعمل كامل مسلك الزيادة في السرعة",
+   "أتوقف على مستوى العلامة",
+   "أتوغل"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie2/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 9,
+  "question": "تدل هذه الملصقة على أن الحمولة المنقولة تشكل خطر",
+  "options": [
+   "عدوى",
+   "تآكل",
+   "التهاب تلقائي"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie2/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 10,
+  "question": "إذا لا أتوقف أعرض نفسي إلى عقوبة السجن",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie2/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 11,
+  "question": "لاستعمال مسلك الخروج القادم",
+  "options": [
+   "أفرمل و أنحاز إلى اليمين على الفور",
+   "أخذ مكاني فورا على اليمين و أفرمل",
+   "أشغل ضوء تغيير الاتّجاه و أخفّض من السرعة على مستوى العلامات"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie2/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 12,
+  "question": "إذا كنت متحصلا على رخصة سياقة من صنف \"ب\" يمكنني جر مجرورة بدون رخصة خاصة لا يفوق",
+  "options": [
+   "وزنها الجملي 750 كلغ",
+   "وزنها الجملي 850 كلغ",
+   "وزنها الجملي 950 كلغ"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie2/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 13,
+  "question": "عندما أقف بدون موجب فوق جانب الوقوف الاضطراري أرتكب مخالفة خطيرة",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie2/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 14,
+  "question": "ينتقل الضوء من الأخضر إلى البرتقالي",
+  "options": [
+   "أمر",
+   "أتوقف"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie2/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 15,
+  "question": "سوف يعترضني",
+  "options": [
+   "مفترق طرقات ذو اتجاه دوراني",
+   "منعرج خطير على اليسار",
+   "ممر بدون منفذ"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie2/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 16,
+  "question": "يمكنني وضع الأمتعة على اللوحة الخلفية",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie2/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 17,
+  "question": "في هذه الوضعية ينجر عن المجاوزة",
+  "options": [
+   "سحب رخصة السياقة",
+   "خصم 6 نقاط",
+   "إلغاء رخصة السياقة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie2/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 18,
+  "question": "للاعلان عن حادث أتصل بالحماية المدنية على الرقم 198",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie2/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 19,
+  "question": "حركة الجولان معطلة أمامي",
+  "options": [
+   "أتقدم إلى حدود السيارة البيضاء",
+   "أتوقف قبل المفترق"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie2/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 20,
+  "question": "تشير البيانات الموجودة جنب الطوق المطاطي إلى",
+  "options": [
+   "مؤشر طاقة الحمولة",
+   "مؤشر التهري",
+   "تركيبة الطوق"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie2/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 21,
+  "question": "الإتجاه إلى المرسى مؤمن بـ",
+  "options": [
+   "مسلك وحيد للجولان",
+   "ثلاثة مسالك للجولان",
+   "أربعة مسالك للجولان"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie2/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 22,
+  "question": "يجب أن تضيء أضواء المقاطعة الطريق بنجاعة على مسافة تقدر بحوالي",
+  "options": [
+   "30 مترا",
+   "50 مترا",
+   "100 مترا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie2/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 23,
+  "question": "قبل الإنعطاف إلى اليمين يجب علي",
+  "options": [
+   "أن أترك الأولوية إلى اليسار فقط",
+   "أن أترك الأولوية إلى اليسار و اليمين",
+   "أن أتوقف"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie2/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 24,
+  "question": "يمكنني التوقف و الوقوف",
+  "options": [
+   "على اليمين فقط",
+   "على اليسار فقط",
+   "على جانبي النهج"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie2/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 25,
+  "question": "يمكنني المجاوزة من اليمين",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie2/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 26,
+  "question": "الضوء يشتعل",
+  "options": [
+   "أواصل سيري بلا تردد",
+   "أخفض من السرعة و أمر مع الإنتباه",
+   "أتوقف"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie2/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 27,
+  "question": "عندما يكون الطقس ممطرا بهذه الطريق تخفض السرعة القصوى",
+  "options": [
+   "بـ10 كلم في الساعة",
+   "بـ20 كلم في الساعة",
+   "بـ30 كلم في الساعة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie2/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 28,
+  "question": "أسير بسرعة 90 كلم في الساعة",
+  "options": [
+   "أخفض من السرعة",
+   "أحافظ على نفس السرعة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie2/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 29,
+  "question": "هذه العلامة تعني",
+  "options": [
+   "ممنوع التوقف",
+   "ممنوع الوقوف",
+   "ممنوع التوقف و الوقوف"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie2/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 2,
+  "q": 30,
+  "question": "للإنعطاف إلى اليسار آخذ مكاني",
+  "options": [
+   "على اليسار",
+   "بالوسط",
+   "على اليمين"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie2/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 1,
+  "question": "يمكنني الإنعطاف إلى اليسار",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie3/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 2,
+  "question": "يمكنني التوغل على الفور",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie3/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 3,
+  "question": "الضوء ينتقل من الأخضر إلى البرتقالي",
+  "options": [
+   "أتوقف",
+   "أحافظ على نفس السرعة و أمر",
+   "أزيد في السرعة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie3/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 4,
+  "question": "أنعطف إلى اليمين",
+  "options": [
+   "أمر",
+   "أتوقف"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie3/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 5,
+  "question": "",
+  "options": [
+   "يمكنني الوقوف على اليمين",
+   "يمكنني الوقوف على اليسار",
+   "لا يمكنني الوقوف"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie3/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 6,
+  "question": "هذه العلامة تعني",
+  "options": [
+   "منحدر خطير",
+   "مرتفع ذو انحناء حاد",
+   "طريق تنتهي إلى رصيف أو حافة نهر"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie3/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 7,
+  "question": "الوقوف مثل هذه العربة",
+  "options": [
+   "جائز",
+   "ممنوع",
+   "مسموح به"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie3/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 8,
+  "question": "الضوء البرتقالي رفاف",
+  "options": [
+   "أمر بحذر",
+   "أترك الأولوية إلى اليمين",
+   "أترك الأولوية إلى اليسار"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie3/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 9,
+  "question": "يمكنني الجولان بأضواء الوضعية فقط",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie3/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 10,
+  "question": "عند عدم القيام بمخالفة أخرى في نفس السنة يمكن للسائق استرجاع كامل الرصيد من النقاط إذا كان عدد النقاط المخصومة لم يتجاوز",
+  "options": [
+   "6",
+   "8",
+   "10"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie3/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 11,
+  "question": "",
+  "options": [
+   "أفرمل",
+   "أستعمل السبيل الأيمن",
+   "أحافظ على نفس السرعة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie3/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 12,
+  "question": "تتمثل العمليات الأولى عند الاسعاف في",
+  "options": [
+   "الحماية",
+   "الإعلام",
+   "الإغاثة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie3/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 13,
+  "question": "هذه العلامة تعلن عن منع الجولان على العربات التي تحمل كمية معينة من",
+  "options": [
+   "مواد يمكنها تلويث المياه",
+   "مواد سريعة الالتهاب",
+   "مواد متفجرة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie3/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 14,
+  "question": "هذه العلامة تشير إلى القرب من",
+  "options": [
+   "محطة استخلاص",
+   "محطة لتوزيع البنزين",
+   "مكان مخصص للوقوف"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie3/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 15,
+  "question": "يمكنني",
+  "options": [
+   "التوقف قبل العلامة",
+   "التوقف بعد العلامة",
+   "الوقوف بعد العلامة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie3/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 16,
+  "question": "يعتبر الجولان بالمسلك المخصص للحافلات",
+  "options": [
+   "مخالفة عادية",
+   "مخالفة خطيرة",
+   "جنحة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie3/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 17,
+  "question": "بهذه الطريق السيارة أسير بسرعة 90 كلم في الساعة مسافة التوقف هي حوالي",
+  "options": [
+   "80 مترا",
+   "120 مترا",
+   "160 مترا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie3/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 18,
+  "question": "بالرغم من بقاء هذه الإشارة مشتعلة يمكن لهذا السائق الانطلاق",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie3/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 19,
+  "question": "",
+  "options": [
+   "أتجاوز",
+   "أترقب عبور المفترق"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie3/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 20,
+  "question": "أنعطف إلى اليمين يمكنني المرور دون التوقف",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie3/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 21,
+  "question": "يجب السير",
+  "options": [
+   "بأضواء المقاطعة",
+   "بأضواء الضباب الأساسية",
+   "بأضواء الطريق"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie3/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 22,
+  "question": "نقص في احتكاك العجلات بالمعبد من شأنه أن يضاعف في",
+  "options": [
+   "زمن رد الفعل",
+   "مسافة الفرملة",
+   "مسافة التوقّف"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie3/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 23,
+  "question": "هذه العلامة تعني",
+  "options": [
+   "تحديد السرعة",
+   "أدنى سرعة إجباريّة",
+   "السّرعة المنصوح بها"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie3/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 24,
+  "question": "بصفة عامّة عند الوصول إلى مكان حادث مرور يجب",
+  "options": [
+   "نقل المصاب إلى خارج المعبد",
+   "إخراج المصاب من العربة",
+   "انتظار قدوم الإسعافات"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie3/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 25,
+  "question": "يزيد استهلاك الوقود عندما تكون العجلات منفوخة أقلّ من اللاّزم",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie3/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 26,
+  "question": "وضعيّتي صحيحة لكي",
+  "options": [
+   "أنعطف إلى اليسار",
+   "أواصل سيري إلى الأمام",
+   "أنعطف إلى اليسار أو أواصل سيري إلى الأمام"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie3/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 27,
+  "question": "الجولان بدون شهادة تأمين",
+  "options": [
+   "مسموح به",
+   "ممنوع",
+   "منصوح به"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie3/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 28,
+  "question": "وضعيّتي صحيحة للانعطاف لليسار",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie3/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 29,
+  "question": "",
+  "options": [
+   "أمر في المرتبة الأولى",
+   "أترك الأولويّة إلى الأمام"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie3/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 3,
+  "q": 30,
+  "question": "في هذه الوضعيّة",
+  "options": [
+   "أنحاز إلى اليمين",
+   "أواصل السير في هذا المسلك"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie3/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 1,
+  "question": "في هذه الوضعية أترك الأولوية للعربات الموجودة داخل المفترق",
+  "options": [
+   "عند الدوران لليسار فقط",
+   "عند الدوران لليمين فقط",
+   "في جميع الحـالات"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie4/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 2,
+  "question": "لمواصلة السير إلى الأمام يجب فسح مجال المرور",
+  "options": [
+   "للعربات القادمة من اليسار و من اليمين",
+   "للعربات القادمة من اليسار فقط",
+   "للعربات القادمة من اليمين فقط"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie4/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 3,
+  "question": "يمكنني المجاوزة",
+  "options": [
+   "نعم",
+   "ﻻ"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 4,
+  "question": "هذه العلامة تعني",
+  "options": [
+   "ممنوع على الدراجات",
+   "ممر خاص الدراجات",
+   "خطر بسبب الدراجات"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie4/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 5,
+  "question": "المجاوزة الممنوعة تعرّض السائق إلى عقوبة السجن",
+  "options": [
+   "لمدة أقصـاها شهرا",
+   "لمدة أقصـاها ثلاثة أشهر",
+   "لمدة أقصـاها ستة أشهر"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie4/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 6,
+  "question": "عند نهاية مسلك الزيادة في السرعة يجب",
+  "options": [
+   "التوقف دائما لفسح مجال المرور",
+   "يجب فسح مجال المرور بدون توقف"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 7,
+  "question": "فوق الممر الخاص بالمترجلين",
+  "options": [
+   "يمكنني التوقف",
+   "يمكنني الوقوف",
+   "ﻻ يمكنني الوقوف و التوقف"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie4/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 8,
+  "question": "يعتبر وقوفا مفرطا كل وقوف بصفة مستمرّة و بنفس المكان لمدّة تتجاوز",
+  "options": [
+   "5 أيام",
+   "7 أيام",
+   "10 أيام"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 9,
+  "question": "يعلن مؤشر التهرئة على أن عمق الأخاديد الأساسية قد بلغ",
+  "options": [
+   "مليمترا واحدا 1 مم",
+   "واحد مليمترا فاصل ستة 1.6 مم",
+   "مليمترين 2 مم"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 10,
+  "question": "في هذا المرتفع",
+  "options": [
+   "أفسح المجال للعربة النازلة",
+   "العربة النازلة تفسح لي مجال المرور"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 11,
+  "question": "السرعة محددة في هذا النفق بـ 70 كلم/س",
+  "options": [
+   "نعم",
+   "ﻻ"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 12,
+  "question": "إنخفضت سرعة السيارة التي تسبقني",
+  "options": [
+   "أستعمل دواسة الفرامل بقوة",
+   "أستعمل دواسة الفرامل بصفة معتدلة",
+   "أستعمل دواسة الفرامل و أشغّل أضواء النجدة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 13,
+  "question": "عدم إستعمال حزام الأمان خارج المناطق البلدية ينجر عنه",
+  "options": [
+   "سحب رخصة السياقة",
+   "غرامة مالية فقط",
+   "سحب 4 نقاط من رصيد رخصة السياقة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 14,
+  "question": "عند الدوران إلى اليسار يجب",
+  "options": [
+   "فسح المجال للعربات القادمة من الإتجاه المعاكس",
+   "الدوران دون فسح المجال"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 15,
+  "question": "لمواصلة السير إلى الأمام",
+  "options": [
+   "أنتظر مرور السيارة البيضاء",
+   "أمر بعد السيارة البيضاء لأنها قادمة من اليمين",
+   "السيارة البيضاء مطالبة بالتوقف"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie4/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 16,
+  "question": "حمل الأمتعة بهذه الطريقة يتسبب في زيادة استهلاك الوقود",
+  "options": [
+   "نعم",
+   "ﻻ"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie4/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 17,
+  "question": "في هذه الطريق السيّارة السرعة محددة",
+  "options": [
+   "بتسعين 90 كلم/س",
+   "بمائة و عشرة 110 كلم/س",
+   "بمائة و عشرون 120 كلم/س"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 18,
+  "question": "في هذه الوضعية",
+  "options": [
+   "بإمكاني الدوران إلى اليسار",
+   "بإمكاني الدوران إلى اليسار أو إلى اليمين"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie4/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 19,
+  "question": "تعلن هذه العلامة عن",
+  "options": [
+   "عدة منعرجات خطيرة",
+   "منعرج واحد خطير",
+   "مرتفعات و منحدرات متتالية"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie4/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 20,
+  "question": "لتفادي الإنزلاق في هذا المنعرج",
+  "options": [
+   "أضغط على الفرامل بقوة",
+   "أحافظ على سرعة معتدلة",
+   "أستعمل المسلك الأيسر"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 21,
+  "question": "عند نزول المطر يسجّل انخفاضا في",
+  "options": [
+   "مدة زمن رد الفعل",
+   "درجة احتكاك العجلات بالمعبد",
+   "مسافة التوقف"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 22,
+  "question": "لا يمكن أن يكون عمق الأخاديد للعجلات المطاطية في أربع نقاط موزعة على حد السواء و في أكثر من نقطة واحدة أقل من",
+  "options": [
+   "مليمتر واحد",
+   "1.6 مليمتر",
+   "مليمترين"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie4/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 23,
+  "question": "بسرعة 50 كلم/س يجب ترك مسافة أمان لا تقل عن",
+  "options": [
+   "15 مترا",
+   "20 مترا",
+   "25 مترا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie4/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 24,
+  "question": "يمثل دور مصفاة الهواء في",
+  "options": [
+   "تبريد محرك العربة",
+   "منع دخول الغبار إلى محرك العربة",
+   "ضمان تصفية الوقود قبل الإحتراق"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 25,
+  "question": "بسرعة 110 كلم/س في هذه الطريق السيارة",
+  "options": [
+   "يجب علي السير في السبيل الأيمن",
+   "يجب علي السير في السبيل الأيسر",
+   "يجب علي مواصلة السير بهذا السبيل"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie4/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 26,
+  "question": "عند إعتراض علامة قف يجب التوقف",
+  "options": [
+   "في مستوى العلامة",
+   "قبل العلامة",
+   "بعد العلامة و على حدّ المعبد الذي يقترب منه"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie4/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 27,
+  "question": "عند ضرورة تحريك مصاب يجب الحفاظ دوما على",
+  "options": [
+   "إستواء الرأس و العنق و الجسم",
+   "عملية غير ضرورية"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie4/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 28,
+  "question": "في هذه الحـالـة",
+  "options": [
+   "البقاء في هذا المسلك و المحافظة على نفس السرعة",
+   "الإنحياز إلى اليمين و عدم الزيادة في السرعة",
+   "الإنحياز إلى اليمين و التخفيض من السرعة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 29,
+  "question": "هذه العربة غير متمسكة بيمينها",
+  "options": [
+   "يمكنني مجاوزتها من اليمين",
+   "يمكنني مجاوزتها من اليسار",
+   "تمنع المجاوزة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie4/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 4,
+  "q": 30,
+  "question": "منع المرور على العربات التي تحمل أكثر من كمية معيّـنة من",
+  "options": [
+   "مواد خطـرة",
+   "مواد ملوثـة للمياه",
+   "مواد سريعة الإلتهاب"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie4/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 1,
+  "question": "المجاوزة الممنوعة تعرّض السائق إلى عقوبة بالسجن لمدّة أقصاها",
+  "options": [
+   "شهرا واحدا",
+   "ثلاثة أشهر",
+   "ستة أشهر"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie5/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 2,
+  "question": "هذه العلامة تشير إلى",
+  "options": [
+   "أشغال بالطريق",
+   "منعرج خطـير",
+   "تغيير إتجاه السيـر"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 3,
+  "question": "ماذا يسلم لصاحب العربة عند عرضها على الفحص الفني العرضي",
+  "options": [
+   "وصلا وقتيا صالحا للجولان لمدة شهر",
+   "وصلا وقتيا صالحا للجولان لمدة 15 يوما",
+   "وصلا وقتيا صالحا للجولان لمدة أسبوع"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 4,
+  "question": "إستعمال الهاتف الجوّال أثناء السياقة ينجر عنه",
+  "options": [
+   "عقوبة بالسجن",
+   "غرامة مالية فقط",
+   "سحب رخصة السياقة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 5,
+  "question": "يجب أن ترسل أضواء الطريق إلى الأمام نورا",
+  "options": [
+   "أصـفـر",
+   "أبيـض",
+   "أبيـض أو أصـفـر"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 6,
+  "question": "إشارة تحديد السرعة تخص",
+  "options": [
+   "العربات التي تتجه إلى اليمين فقط",
+   "العربات التي تواصل السير إلى الأمام"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie5/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 7,
+  "question": "الضوء برتقالي رفاف",
+  "options": [
+   "يجب العمل بقاعدة الأولوية لليمين",
+   "يجب ترك الأولوية لليسار و لليمين",
+   "يجب احترام علامة الأولوية"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie5/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 8,
+  "question": "وقوف هذه العربة ينجر عنه",
+  "options": [
+   "سحب 4 نقاط من رصيد رخصة السياقة",
+   "غرامة ماليـة",
+   "سحب رخصة السياقة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 9,
+  "question": "يمكن استعمال هذا الهاتف",
+  "options": [
+   "للإتصال بطبـيب خاص",
+   "لطلب النجدة",
+   "الإتصـال بميكانيكي"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 10,
+  "question": "عند مجاوزة هذه الدراجات يجب ترك مسافة جانبية",
+  "options": [
+   "لا تقل عن مترين",
+   "لا تقل عن متر واحد",
+   "لا تقل عن نصف متر"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 11,
+  "question": "عند مواصلة السير إلى الأمام تكون السرعة محددة بـ",
+  "options": [
+   "تسعين 90 كلم/س",
+   "مائة و عشرة 110 كلم/س"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 12,
+  "question": "وضعيتي صحيحة للدوران إلى اليمين",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 13,
+  "question": "يجب الزيادة في ضغط العجلات",
+  "options": [
+   "عند السير لمسافات طويلة فقط",
+   "عند شحن العربة شحنا كاملا فقط",
+   "عند شحن العربة أو السير لمسافات طويلة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie5/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 14,
+  "question": "إنتقل الضوء من الأخضر إلى البرتقالي",
+  "options": [
+   "احترم الإشارة الضوئية لأنها تبطل مفعول العلامة",
+   "احترم العلامة المتعلقة بالأولوية",
+   "أعمل بقاعدة الأولوية باليمين"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie5/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 15,
+  "question": "يجب تفقد مستوى زيت المحرك",
+  "options": [
+   "قبل تشغيل المحرك",
+   "بعد تشغيل المحرك",
+   "يمكن القيام بذلك في الحالتين"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie5/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 16,
+  "question": "لضيق المكان يمكن الوقوف بهذه الصفة",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 17,
+  "question": "بعد هذه العلامة تكون السرعة محددة بـ",
+  "options": [
+   "60 كلم/س",
+   "80 كلم/س",
+   "90 كلم/س"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie5/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 18,
+  "question": "يجب أن تحتوي لوحة الصانع على",
+  "options": [
+   "رقم تسجيل العربة",
+   "خاصيـات الأوزان",
+   "عدد المقاعد"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 19,
+  "question": "تجهيز العربة بعجلة إحتياط صالحة للإستعمال",
+  "options": [
+   "منصوح به",
+   "إجباري"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 20,
+  "question": "في هذه الوضعية يجب السير",
+  "options": [
+   "بأضواء الوضعية فقط",
+   "بأضواء المقاطعة",
+   "بأضواء الطريق أو بأضواء المقاطعة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 21,
+  "question": "إجباري الدوران إلى اليسار قبل العلامة",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie5/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 22,
+  "question": "في هذه الحالة يخفّض الحد الأقصى للسرعة بـ",
+  "options": [
+   "10 كلم/س",
+   "15 كلم/س",
+   "20 كلم/س"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie5/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 23,
+  "question": "في هذه الوضعية يمكنني المجاوزة",
+  "options": [
+   "لا لأن العربة التي تسبقني تحجب الرؤية",
+   "لا لأن حركة المرور في الإتجاهين",
+   "نعم لأن الإشارات السطحية تسمح بذلك"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie5/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 24,
+  "question": "يمكن استعمال عجلات ذات هياكل مختلفة على نفس المغزل",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 25,
+  "question": "بعد هذه العلامة",
+  "options": [
+   "السرعة غير محددة",
+   "السرعة محددة بتسعين 90 كلم/س",
+   "السرعة محددة بخمسين 50 كلم/س"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 26,
+  "question": "عملية تعديل العجلات",
+  "options": [
+   "بالنسبة للأطواق المستعملة فقط",
+   "بالنسبة للأطواق المستعملة و الجديدة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 27,
+  "question": "هذه الملصقة تبين أن العربة تحمل",
+  "options": [
+   "مواد ساخنة",
+   "مواد ملوثة",
+   "غاز غير قابل للإلتهاب"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie5/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 28,
+  "question": "العربة تغادر محطـة البنزين",
+  "options": [
+   "أفسح لها مجال المرور",
+   "يجب على سائقها الإنتظار",
+   "يقع المرور بالتراضي"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie5/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 29,
+  "question": "تتمثل الإجراءات الأولى لإسعاف مصاب في",
+  "options": [
+   "إعطائه الماء ليشرب",
+   "إخراجه من العربة",
+   "طمأنته و الرفع من معنوياته"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie5/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 5,
+  "q": 30,
+  "question": "يتعرض السائق الذي لا يحترم إشارة عون المرور إلى",
+  "options": [
+   "خطية مالية أقصاها ستون 60 دينار",
+   "خطية مالية أقصاها مائة 100 دينار",
+   "خطية مالية أقصاها خمسمائة 500 دينار"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie5/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 1,
+  "question": "تعلن هذه العلامة عن",
+  "options": [
+   "منعرج واحد خطيـر",
+   "عدة مرتفعات و منحدرات",
+   "عدة منعرجات خطيرة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie6/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 2,
+  "question": "بعد هذه العلامة",
+  "options": [
+   "تمنع مجاوزة العربات ذات محرك",
+   "تمنع مجاوزة الشاحنات فقط",
+   "يمكن مجاوزة العربات ذات عجلتين و بدون عربة جانبية"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie6/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 3,
+  "question": "بداية من هذه العلامة تصبح السرعة",
+  "options": [
+   "محددة بـ 60 كلم/س",
+   "غير محددة تماما",
+   "محددة بـ 90 كلم/س"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie6/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 4,
+  "question": "تعلن هذه العلامة عن",
+  "options": [
+   "بداية أشغال بعد 200م",
+   "طريق مقطوعة بعد 200م"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie6/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 5,
+  "question": "هذه العلامة تعني",
+  "options": [
+   "تقاطع طريق مع سكة حديدية بدون حواجز أو نصف حواجز",
+   "تقاطع طريق مع سكة حديدية مجهزة بإشارات أوتوماتيكية ضوئية و صوتية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie6/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 6,
+  "question": "بعد هذه العلامة سيعترضني",
+  "options": [
+   "تقاطع طريق مع سكة حديدية مجهزة بحواجز",
+   "تقاطع طريق مع سكة حديدية غير مجهزة بحواجز"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie6/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 7,
+  "question": "العلامة تعني",
+  "options": [
+   "الأولوية للإتجاه المعاكس",
+   "الأولوية بالنسبة للإتجاه المعاكس"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie6/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 8,
+  "question": "هذه العلامة تعني",
+  "options": [
+   "منع الوقوف في الصف الثاني",
+   "منع الوقوف جهة العلامة في الأيام الفردية",
+   "منع الوقوف جهة العلامة في الأيام الزوجية"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie6/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 9,
+  "question": "السرعة محددة",
+  "options": [
+   "قبل العلامة فقط",
+   "بعد العلامة فقط",
+   "قبل و بعد العلامة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie6/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 10,
+  "question": "عند مواصلة السير إلى الأمام نتّجه نحو طريق سيارة",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie6/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 11,
+  "question": "تعلن هذه العلامة عن",
+  "options": [
+   "مخفضين للسرعة متتاليين",
+   "مرتفع ذو إنحناء حاد",
+   "طريق مسنّم"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie6/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 12,
+  "question": "العلامة تعني",
+  "options": [
+   "خطر بسبب الدراجات",
+   "ممنوع على الدراجات",
+   "ممر خاص بالدراجات"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie6/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 13,
+  "question": "العلامة تعطينا الأولوية",
+  "options": [
+   "في المفترق القادم فقط",
+   "تعطينا الأولوية في عدة مفترقات"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie6/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 14,
+  "question": "العلامة تعني",
+  "options": [
+   "إجباري مواصلة السير إلى الأمام",
+   "الجولان في إتّجاه واحد"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie6/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 15,
+  "question": "العلامة تعني",
+  "options": [
+   "إجباري الدّوران إلى اليسار",
+   "رياح جانبيّة قويّة",
+   "مفترق طرقات ذو إتّجاه دوراني"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie6/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 16,
+  "question": "بعد هذه العلامة يجب",
+  "options": [
+   "ترك الأولويّة لليمين",
+   "ترك الأولويّة لليسار",
+   "ترك الأولويّة لليسار و اليمين"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie6/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 17,
+  "question": "عند اعتراض هذه العلامة",
+  "options": [
+   "يجب الوقوف داخل المأوى حسب إتجاه السهم",
+   "يمكن الوقوف قبل العلامة و خارج المأوى"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie6/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 18,
+  "question": "علامة الأولوية هذه",
+  "options": [
+   "تخص المفترق الذي يأتي بعدها فقط",
+   "تخص جميع المفترقات التي تأتي بعدها"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie6/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 19,
+  "question": "هذه العلامة تعني",
+  "options": [
+   "طريق ينتهي إلى رصيف أو حافة نهر",
+   "مرتفع ذو انحناء حاد",
+   "منحدر خطير"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie6/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 20,
+  "question": "عند إعتراض هذه العلامة",
+  "options": [
+   "تمنع مجاوزة الشاحنات",
+   "لا يمكن للشاحنات المجاوزة",
+   "لا يمكن للشاحنات و الحافلات المجاوزة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie6/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 21,
+  "question": "عند إعتراض هذه العلامات",
+  "options": [
+   "بإمكاني مواصلة السير إلى الأمام",
+   "بإمكاني الدوران إلى اليمين",
+   "يجب علي الدوران إلى اليسار فقط"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie6/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 22,
+  "question": "هذه العلامة تعني",
+  "options": [
+   "إتجاه ممنوع",
+   "طريق بدون منفذ",
+   "طريق مقطوعة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie6/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 23,
+  "question": "هذه العلامة تمنع الجولان",
+  "options": [
+   "على السيارات و الدراجات النارية الكبيرة فقط",
+   "على جميع العربات ذات محرك",
+   "تسمح بمرور الدراجات النارية الصغيرة فقط"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie6/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 24,
+  "question": "العلامة تعني",
+  "options": [
+   "عدة منعرجات خطيرة",
+   "طريق مزلق",
+   "رياح جانبية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie6/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 25,
+  "question": "في هذه الوضعية",
+  "options": [
+   "بإمكاني مواصلة السير إلى الأمام",
+   "يجب علي الرجوع على الأعقاب",
+   "بإمكاني الدوران إلى اليمين أو إلى اليسار"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie6/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 26,
+  "question": "منع الوقوف و التوقف",
+  "options": [
+   "قبل العلامة فقط",
+   "بعد العلامة فقط",
+   "قبل و بعد العلامة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie6/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 27,
+  "question": "في هذا المفترق",
+  "options": [
+   "أمر لأني في طريق ذات أولوية",
+   "أتوقف لأن الأضواء تبطل مفعول العلامات"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie6/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 28,
+  "question": "هذه الأسهم هي",
+  "options": [
+   "أسهم إختيار المسالك",
+   "أسهم الإنزواء"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie6/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 29,
+  "question": "هذه العلامات تمنع المرور على العربات التي تحمل",
+  "options": [
+   "أكثر من كمية معيّة من المواد الملوّثة للمياه فقط",
+   "أكثر من كمية معيّة من المواد الخطرة",
+   "أكثر من كمية معيّة من المواد الخطرة و المواد الملوثة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie6/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 6,
+  "q": 30,
+  "question": "هذا الممر مخصص للجولان",
+  "options": [
+   "لجميع أنواع الدراجات و الدراجات النارية",
+   "للدراجات فقط",
+   "للدراجات و الدراجات النارية الصغيرة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie6/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 1,
+  "question": "يجب أن تكون محركات العربات في حالة وقوف متوقفةٌ عن التشغيل",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie7/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 2,
+  "question": "الظغط المنخفض ينجر عنه",
+  "options": [
+   "إرتفاعٌ في الحرارة وتمزق في الاطار",
+   "قيادة ثابتة للعربة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie7/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 3,
+  "question": "العلامة تمنع الوقوف",
+  "options": [
+   "على طول هذا انهج ومن الجانبين",
+   "من جهة العلامة في الأيام الفردية من الشهر",
+   "من جهة العلامة في الأيام الزوجية من الشهر"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie7/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 4,
+  "question": "بالمفترق القادم:",
+  "options": [
+   "أواصل سيري دون فسح المجال",
+   "افسح المجال ثم أواصل سيري",
+   "يجب التوقف وفسح المجال"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie7/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 5,
+  "question": "معدل نسق دقات القلب لدى الكهل",
+  "options": [
+   "من 12 إلى 20 نبضة في الدقيقة",
+   "من 40 إلى 60 نبضة في الدقيقة",
+   "من 60 إلى 80 نبضة في الدقيقة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie7/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 6,
+  "question": "عند السير بسرعة 70 كلم/س وراء هذه الشاحنة :",
+  "options": [
+   "يجب ترك مسافات أمان لا تقل عن 21 م",
+   "لا تقل عن 50 م",
+   "لا تقل عن 70 م"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie7/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 7,
+  "question": "حمل حزام الأمان بالمقاعد الخلفية:",
+  "options": [
+   "إختياري ومنصوح به",
+   "إجباري"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie7/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 8,
+  "question": "وقوف هذه العربة قانوني :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie7/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 9,
+  "question": "للدوران إلى اليسار :",
+  "options": [
+   "انتظر العربات القادمة في الاتجاه المعاكس",
+   "العربات القادمة في الاتجاه المعاكس تنتظرني"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie7/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 10,
+  "question": "منع الدوران إلى اليسار:",
+  "options": [
+   "قبل العلامة",
+   "بعد العلامة",
+   "قبل و بعد العلامة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie7/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 11,
+  "question": "إشارة العوني تلغى وتعوض:",
+  "options": [
+   "علامات الطريق فقط",
+   "الإشارات الضوئية فقط",
+   "جميع الإشارات والعلامات"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie7/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 12,
+  "question": "بداية من هذه العلامة يمكنني:",
+  "options": [
+   "مجاوزة الشاحنة فقط",
+   "مجاوزة السيارات الخفيفة فقط",
+   "مجاوزة جميع اصناف العربات"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie7/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 13,
+  "question": "هذه الملصقة تدل على أن العربة تحمل :",
+  "options": [
+   "مادة سامة",
+   "مادة آكلة",
+   "مادة خانقة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie7/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 14,
+  "question": "هذي العربة في حالة وقوف قانوني لأنها توجد :",
+  "options": [
+   "على أقل من 3 أمتار من المفترق",
+   "على أكثر من 3 أمتار من المفترق",
+   "على أكثر من مترين (2) من المفترق"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie7/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 15,
+  "question": "في هذه الوضعية :",
+  "options": [
+   "يجب السير بأضواء الوضعية فقط",
+   "يجب السير بأضواء المقاطعة",
+   "يمكن إستعمال أضواء الوضعية أو المقاطعة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie7/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 16,
+  "question": "هذه العربة تعرض على الفحص الفني لأول مرة:",
+  "options": [
+   "بعد سنة من تاريخ أول إذن لها بالجولان",
+   "بعد سنتين من تاريخ أول إذنلهة بالجولان",
+   "بعد ثلاث سنوات من تاريخ أول إذن لها بالجولان"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie7/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 17,
+  "question": "هذه العلامة تعني:",
+  "options": [
+   "منع الرجوع على الأعقاب بالمفترق",
+   "ترك الاولوية للعربات الموجودة داخل المفترق",
+   "يجب الدوران إلى اليسار فقط"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie7/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 18,
+  "question": "سائق السيارة الحمراء لم يحترم الأولوية:",
+  "options": [
+   "يتعرض إلى سحب رخصة السياقة",
+   "يتعرض إلى خطية مالية فقط",
+   "يتعرض إلى سحب 4 نقاط"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie7/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 19,
+  "question": "وضعيتي صحيحة للقيام بعمليات الإستخلاص:",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie7/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 20,
+  "question": "السياقة بدون رخصة تعرضه المخالفة إلى خطية مالية:",
+  "options": [
+   "اقصاها 60 د",
+   "اقصاها 100 د",
+   "اقصاها 500 د"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie7/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 21,
+  "question": "يستحسن وضع الامتعة:",
+  "options": [
+   "على المقاعد الخلفية",
+   "بهذه الكيفية داخل العربة",
+   "بالصندوق المخصص لها"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie7/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 22,
+  "question": "عندما ينخفض زيت الفرامل بصفة ملحوظة:",
+  "options": [
+   "أقوم فوراً بيالتثبت من أجهزة الفرامل",
+   "اكتفي بزيادة قليل من الزيت",
+   "أقوم بتثبيتها في الفحص الفني المقبل"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie7/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 23,
+  "question": "تشاهد عند اضاءتها ليلا باضواء الطريق على مسافات 100 متر:",
+  "options": [
+   "التجهيزات التي تعكس النور",
+   "أضواء الوضعية",
+   "أضواء الفرملة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie7/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 24,
+  "question": "العلامة تعلن عن عدة منعرجات خطيرة :",
+  "options": [
+   "إبتدأ من العلامة وعلى إمتداد 1000 م",
+   "بعد 150 م من العلامات وعلى إمتداد 1000 م",
+   "بعد 1000 م من العلامة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie7/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 25,
+  "question": "وقوف هذه العربة :",
+  "options": [
+   "مسموح به لفترة زمنية قصيرة",
+   "مسموح به لتفادي تعطل حركة الجولان",
+   "غير مسموح به"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie7/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 26,
+  "question": "بنسبة لصنف \"ب\" يجب أن يكون للسائق حدة بصر لا تقيل:",
+  "options": [
+   "عن 6 من 10 بكلتا العينين",
+   "عن 8 من 10 بكلتا العينين"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie7/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 27,
+  "question": "في هذه الوضعية :",
+  "options": [
+   "أمر قبل السيارة الصفراء لأنها قديمة من اليسار",
+   "أترك لها الأولوية لأنني مطالب حتماً بالتوقف",
+   "الأولوية باليمين دائماً داخل مناطق العمران"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie7/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 28,
+  "question": "الشاحنة متوقفة لوجود علامة قف:",
+  "options": [
+   "مواصلات السير معها مباشرة",
+   "التوقف ثانية على مستوى خط الوقوف"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie7/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 29,
+  "question": "منع التوقف يخص :",
+  "options": [
+   "العربات التي لها مجرورة",
+   "جميع اصناف العربات"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie7/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 7,
+  "q": 30,
+  "question": "يمكن توقيف العربات على وجه الإحتياط إذا إتضح:",
+  "options": [
+   "أن السائق تجاوز السرحعة المحددة",
+   "أن السائق قام بعمليات مجاوزة ممنوعة",
+   "أن أجهزة السلامة فالعرب غير مستوفية الشروط"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie7/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 1,
+  "question": "بالمفترق القادم :",
+  "options": [
+   "أترك الأولوية لليسار",
+   "أترك الأولوية لليمين",
+   "أمر بحذر"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie8/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 2,
+  "question": "يمكنني الوقوف وراء هذه العربة",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 3,
+  "question": "عند السير وراء هذه العربة يجب إستعمال :",
+  "options": [
+   "أضواء الطريق",
+   "أضواء الوضعية",
+   "أضواء المقاطعة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie8/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 4,
+  "question": "هذه العلامة تعلن عن :",
+  "options": [
+   "طريق ينتهي إلى رصيف أو حافة نهر",
+   "جسر متحرك حاشية طريق خطير"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 5,
+  "question": "داخل مواطن العمران والإضاءة كافية:",
+  "options": [
+   "يمكن السير بأضواء الوضعية فقط",
+   "يجب السير بأضواء المقاطعة",
+   "يمكن السير بدون إنارة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 6,
+  "question": "عند اعتراضه هذه العلامة:",
+  "options": [
+   "إجباري الدوران إلى اليمين",
+   "الطريق ذات أولوية تنعرجو إلى اليمين",
+   "الطريق ذات أولوية تنعرجو إلى اليسار"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 7,
+  "question": "عند المجاوزة يجب ترك المسافة جانبية :",
+  "options": [
+   "لا تقل عن متر واحد",
+   "لا تقل عن مترين",
+   "لا تقيل عن نصف متر"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie8/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 8,
+  "question": "وزن هذه المعدة الصناعية لا يتجاوز 3500 كغ",
+  "options": [
+   "لايمكن سياقتها إلا برخصة من صنف \"ج\"",
+   "لا يمكن سياقاتها إلا برخصة من صنف\"ج+ه\"",
+   "يمكن سياقاتها برخصة من صنف\"ب\""
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie8/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 9,
+  "question": "في هذه الوضعية :",
+  "options": [
+   "أواصل السير وراء الدرجة",
+   "أترك الأولوية لهذه العربة البطينة",
+   "العربة الباطنية لها الأولوية دائما"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie8/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 10,
+  "question": "في هذه الوضعية تحدد السرعة :",
+  "options": [
+   "بخمسين \"50\" كم / س",
+   "بأربعين \"40\" كم / س",
+   "بثلاثين \"30\" كم / س"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 11,
+  "question": "عند الوقوف قرب الررصيف داخل مواطن العمران :",
+  "options": [
+   "يجب أن لا تزيد المسافة عن 50 صنتمترا",
+   "يجب أن لا تزيد المسافة عن 30 صنتمترا",
+   "يجب أن لا تزيد المسافة عن 20 صنتمترا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 12,
+  "question": "يمكن الوقوف وراء هذه العربة :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 13,
+  "question": "عدم إحترام الإشارة التهوئة تعرض السائق إلى :",
+  "options": [
+   "سحب رخصة السياقة لمدة اقصاها سنة",
+   "سحب رخصة السياقة لمدة اقصاها شهر",
+   "سحب رخصة السياقة لمدة اقصاها ستة أشهر"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie8/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 14,
+  "question": "لتفادي الإفراط في إستهلاك الوقود يجب:",
+  "options": [
+   "إبدال البطارية",
+   "إبدال الشمعات بإنتظام",
+   "إبدال مصفاة الهواء فقط"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 15,
+  "question": "إنتقل الضوء من الأخضر إلى البرتقالي :",
+  "options": [
+   "أمر بسرعة",
+   "أتوقف"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 16,
+  "question": "تعلين هذه العلامة عن :",
+  "options": [
+   "مركز شرطة بعد 250 م",
+   "مأوى للوقوف بعد 250 م به مركز هاتف"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 17,
+  "question": "عند وقوع حديث تسبب في اضرار مادية فقط يجب مباشرة إعلام :",
+  "options": [
+   "وكالة الفحص الفني",
+   "شركة التأمين",
+   "الشرطة أو الحرس الوطني"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 18,
+  "question": "عند إعدام عربة يجب إعلام السلط بذلك :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie8/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 19,
+  "question": "هذه الإشارة تبين أن المعنى يخضع لتربص مدته :",
+  "options": [
+   "سنة واحدة",
+   "سنتين",
+   "ثلاث سنوات"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 20,
+  "question": "في هذه الوضعية :",
+  "options": [
+   "عمر قبل المترجلين",
+   "أترك الأولوية للمترجلين",
+   "الأولوية للمترجلين إذا استعملوا الممر الخاص بهم فقط"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 21,
+  "question": "الشاحنة تدور إلى اليسار :",
+  "options": [
+   "أترك لها الأولوية",
+   "أمر قبلها"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 22,
+  "question": "قبل عبور المفترق :",
+  "options": [
+   "إلقاء نظرة أولى إلى اليمين ثم إلى اليسار",
+   "إلقاء نظرة أولى إلى اليسار ثم إلى اليمين"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 23,
+  "question": "العربة التي تتبعني تقترب كثيراً أثناء الجولان :",
+  "options": [
+   "أشير له بالإبتعاد",
+   "أزيد في السرعة",
+   "أضاعف مسافات الأمان بيني وبين العربة التي تسبقني"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie8/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 24,
+  "question": "إشتعال الإشارة الحمراء أثناء الجولان تشير إلى حدوث خلل :",
+  "options": [
+   "على مستوى جهاز الكهرباء",
+   "على مستوى علبة السرعة",
+   "على مستوى جهاز الفرملة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie8/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 25,
+  "question": "حسب وضعيتي على المعبد :",
+  "options": [
+   "يمكنني الدوران إلى اليمين",
+   "يمكنني الدوران إلى اليسار",
+   "يجب علي مواصلة السير إلى الأمام"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie8/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 26,
+  "question": "في مرتفع مسافات الفرملة :",
+  "options": [
+   "لا تتغير",
+   "تنقص ترتفع"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 27,
+  "question": "في طريق ذات إتجاه وحيد يمكن الوقوف من الجهتين بشرط :",
+  "options": [
+   "أن لا يقل الجزء الشاغر من المعبد عن 6 أمتار",
+   "أن لا يقل الجزء الشاغر من المعبد عن 4 أمتار",
+   "أن لا يقل الجزء الشاغر من المعبد عن 3 أمتار"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie8/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 28,
+  "question": "هذه العلامة تعلن عن وجود سكت حديدية :",
+  "options": [
+   "بعد 50 متر",
+   "بعد 100 متر",
+   "بعد 150 متر"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie8/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 29,
+  "question": "في هذه الوضعية :",
+  "options": [
+   "أتوقف وانتظر تغير الإشارة",
+   "اخفض من السرعة وأمر",
+   "أعود على الأعقاب"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie8/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 8,
+  "q": 30,
+  "question": "هذه الملصقة تبين أنا العربة تحمل :",
+  "options": [
+   "مواد سريعة الإلتهاب",
+   "مواد سريعة الإنفجار",
+   "مواد ملوثة للمياه"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie8/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 1,
+  "question": "يحجر نقل الأطفال بالمقاعد الأمامية للعربات إذا لم يبلغوا سن :",
+  "options": [
+   "6 سنوات",
+   "10 سنوات",
+   "8 سنوات"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie9/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 2,
+  "question": "في هذا المفترق :",
+  "options": [
+   "أتوقف قليلاً ثم أوصل سيري",
+   "أمر بدون توقف"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie9/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 3,
+  "question": "يجب أن لا تقل السرعة في حالة السير العادي على الطرقات السيارة عن :",
+  "options": [
+   "50 كلم / س",
+   "70 كلم / س",
+   "60 كلم / س"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie9/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 4,
+  "question": "إستعمال أضواء الطريق عند المقاطعة ليلا يعرض السائق إلى :",
+  "options": [
+   "سحب رخصة السياقة",
+   "عقوبة بالسجن",
+   "غرامة مالية"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie9/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 5,
+  "question": "الشمعات المتأكلة ينجر عنها :",
+  "options": [
+   "زيادة في إستهلاك زيت المحرك",
+   "اخفض في قوة المحرك",
+   "انخفاض في إستهلاك الوقود"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie9/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 6,
+  "question": "تجهيز كل سيارة بمثلثي خطر :",
+  "options": [
+   "إجباري",
+   "منصوح به",
+   "إختياري"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie9/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 7,
+  "question": "في هذي الوضعية :",
+  "options": [
+   "الأولوية ليلسيرة دائما",
+   "الأولوية للمترجلن"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie9/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 8,
+  "question": "الضوء البرتقالي الرفراف في نظام ذي ثلاثة ألوان يعني :",
+  "options": [
+   "العمل بقاعدة الأولوية لليمين في كل الحالات",
+   "الضوء سينتقل إلى الأحمر",
+   "العمل بصعدة الأولوية لليمين في غياب العلامات"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie9/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 9,
+  "question": "وقوف هذه السيارة في هذا المنعرج قانوني لأن موشاهدتها مضمونة على مسافة:",
+  "options": [
+   "3 أمتار",
+   "50 متر",
+   "40 متر"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie9/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 10,
+  "question": "في هذه الوضعية :",
+  "options": [
+   "يجب البقاء وراء الشاحنة",
+   "يمكن المجاوزة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie9/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 11,
+  "question": "الزمان الذي يمر بين ملاحظة الخطر و التدخل على مستوى آلات القيادة هو :",
+  "options": [
+   "زمن التوقف",
+   "زمن رد الفعل",
+   "زمن الفرملة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie9/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 12,
+  "question": "يمكن المجاوزة في هذه الوضعية :",
+  "options": [
+   "نعم",
+   "لا",
+   "نعم لأن الخطوط المزدوجة تمنع المجاوزة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie9/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 13,
+  "question": "في هذا المفترق :",
+  "options": [
+   "لايمكنني المجاوزة لأنني في مفترق",
+   "يمكنني المجاوزة لأني في طريق ذات أولوية",
+   "تمنع المجاوزة بجميع المفترقات"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie9/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 14,
+  "question": "عند مجاوزة المترجلين يجب ترك مسافة جانبية لا تقل عن :",
+  "options": [
+   "متر واحد",
+   "مترين",
+   "متر ونصف"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie9/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 15,
+  "question": "هذه الملصقة تبين خطر :",
+  "options": [
+   "حريق",
+   "تآكل",
+   "إنفجار"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie9/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 16,
+  "question": "في هذا المفترق :",
+  "options": [
+   "أمر قبل السيارة الصفراء",
+   "أترك الأولوية للسيارة الصفراء"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie9/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 17,
+  "question": "عند الحصول على رخصة سياقة من صنف \"ب\" و \"ح\" يمكنني جار مجرورة :",
+  "options": [
+   "لا يتجاوز وزنها 650 كلغ فقط",
+   "لا يتجاوز وزنها 850 كلغ",
+   "لا يتجاوز وزنها 750 كلغ"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie9/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 18,
+  "question": "لتفادي الإبهار من طرف العربات القديمة من الإتجاه المعاكس يجب :",
+  "options": [
+   "التخفيض من السرعة والنظر إلى اليمين",
+   "التخفيض من السرعة وإستعمال أضواء الطريق",
+   "الزيادة في السرعة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie9/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 19,
+  "question": "توقف هذه السيارة :",
+  "options": [
+   "مسموح به لبعض دقائق",
+   "مسموح به لبعض ثوان",
+   "ممنوع منعا باتا"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie9/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 20,
+  "question": "أسهم الإنزواء هذه تعلن :",
+  "options": [
+   "عن إنتهاء السبيل",
+   "على أن الخطوط المتقطعة ستصبح خطا متواصلا",
+   "على أنه يمكن المجاوزة من اليمين"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie9/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 21,
+  "question": "يجب إستعمال أضواء الطريق عند المجاوزة ليلا :",
+  "options": [
+   "عند الإنتهاء من عملية المجاوزة وبعد الرجوع إلى اليمين",
+   "قبل الشروع في عمليات المجاوزة",
+   "أثناء المجاوزة على مستوى العربة التي أقوم بمجاوزتها"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie9/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 22,
+  "question": "عند وقوع حديث يمكنني إعلام الإسعاف الطبي الإستعجالي على الرقم :",
+  "options": [
+   "197",
+   "190",
+   "198"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie9/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 23,
+  "question": "هذا الرسم على الرصيف :",
+  "options": [
+   "يمنع الوقوف والتوقف",
+   "يمنع الوقوف فقط",
+   "يمنع التوقف فقط"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie9/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 24,
+  "question": "كم تساوي مسافات الفرملة في طريق مزلق للطريق الجاف :",
+  "options": [
+   "تتضاعف",
+   "تتساوى",
+   "تتقلص"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie9/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 25,
+  "question": "عند التقاطع في طريق ضيق داخل مواطن العمران تكون الأولوية :",
+  "options": [
+   "للسيارات الخفيفة دائما",
+   "للحافلات",
+   "للعربات التي يفوق طولها 7 أمتار"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie9/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 26,
+  "question": "يمكنني إسترجاع كل النقاط المخصومة من رصيد رخصة السياقة إذا كان عددها لا يتجاوز خلال سنة :",
+  "options": [
+   "10 نقاط",
+   "6 نقاط",
+   "8 نقاط"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie9/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 27,
+  "question": "سائق هذي السيارة الرمادية يقوم بعملية الرجوع على الأعقاب :",
+  "options": [
+   "يتمتع بالأولوية",
+   "يمكنه من مواصلات العملية",
+   "يجب عليه فسح المجال للعربة الموجودة على يمينه"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie9/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 28,
+  "question": "تعلن هذه العلامة عن :",
+  "options": [
+   "فسح المجال للعربات القديمة في الإتجاه المعاكس",
+   "الجولان في الإتجاهين بعد 100 متر",
+   "منع المجاوزة من اليمين"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie9/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 29,
+  "question": "يجب أن لا تتجاوز نسبة الكحول في الدم :",
+  "options": [
+   "0.5 غرام في اللتر الواحد",
+   "0.3 غرام في اللتر الواحد",
+   "0.8 غرام في اللتر الواحد"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie9/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 9,
+  "q": 30,
+  "question": "تعتبر مخالفة خطيرة إحدى المخلفات التالية :",
+  "options": [
+   "إستعمال أكثر من رخصة سياقة من نفس الصنف",
+   "عدم إحترام إشارات أو علامات الوقوف",
+   "إحداث عرقلة أو خطر لحركة الجولان"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie9/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 1,
+  "question": "هذه العربة تعرضوا على الفحص الفني :",
+  "options": [
+   "بعد سنة من أول اثنى لها بالجولان",
+   "بعد سنتين من أولا إذن لها بالجولان",
+   "بعد ثلاث سنوات من أولا إذن لها بالجولان"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 2,
+  "question": "مسافة زمان رد الفعل مرتبطة :",
+  "options": [
+   "بسرعة السيارة فقط",
+   "بحالة السائق فقط",
+   "بحالة السائق وسرعة السيارة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie10/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 3,
+  "question": "الإتجاه للقيروان يكون عبر الطريق السيارة :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 4,
+  "question": "الشاحنة تستعمل مؤشر الإتجاه لمجاوزة العربة التي تسبقها يجب علي :",
+  "options": [
+   "الخروج إلى الحاشية الترابية لتمكينها من مجاوزة",
+   "التمسك باليمين ومواصلات السير لأن الشاحنة لا يمكنها المجاوزة في هذه الوضعية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 5,
+  "question": "",
+  "options": [
+   "ممنوع على الدراجات",
+   "خطر بسبب الدراجات",
+   "خاص بالدراجات"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 6,
+  "question": "المخمدات تؤثر على إلتحام العجلات :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie10/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 7,
+  "question": "",
+  "options": [
+   "يمكنني الوقوف من اليمين فقط",
+   "يمكنني الوقوف من اليسار فقط",
+   "يكنون الوقوف من اليمين واليسار"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 8,
+  "question": "عند إعتراض هذه العلامة خارج مواطن العمران :",
+  "options": [
+   "تحدد السرعة ب 50 كم / س",
+   "تحدد ب 70 كم / س",
+   "تحدد ب 90 كم / س"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie10/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 9,
+  "question": "يجب الكف عن التنافس الإصطناعي :",
+  "options": [
+   "عند وصول الإسعافات المختصة",
+   "عند وفاة المصاب"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie10/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 10,
+  "question": "",
+  "options": [
+   "بإمكاني مجاوزة الجرار",
+   "تمنع مجاوزة الجرار",
+   "الخط لا يمنع مجاوزة العربات البطيئة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 11,
+  "question": "عندما تتضاعف السرعة في 2 :",
+  "options": [
+   "تتضاعف مسافة الفرملة في 2",
+   "في 3",
+   "في 4"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie10/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 12,
+  "question": "المجرورة تحجب مجال الرؤية للمرآة الداخلية :",
+  "options": [
+   "يجب تجهيز العربة بمرآة داخلية وأخرى خارجية من اليسار فقط",
+   "بمرآة إضافية من الجهة اليمنى",
+   "تجهيز العربة بمرآة من الجهة اليمنى غير إجباري"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 13,
+  "question": "طوق مطاطي ذو هيكل قطري يحمل إحدى هذه البيانات على جوانبه :",
+  "options": [
+   "BIAS-BELTED",
+   "RADIAL",
+   "لا يذكر شيء ."
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie10/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 14,
+  "question": "يجب أن يكون التوقف :",
+  "options": [
+   "قبل العلامة",
+   "بعد العلامة",
+   "على مستوى خط الوقوف"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie10/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 15,
+  "question": "متى يمكنني عدم إستعمال إشارة حمراء في مؤخرة الحمولة :",
+  "options": [
+   "عندما تكون الحمولة على أقل من 1 م من مؤخرة العربة",
+   "على أكثر من 1 م",
+   "بين 1 م و 3 م"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie10/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 16,
+  "question": "يوضع مثلث العطب على :",
+  "options": [
+   "مسافة 50 م",
+   "مسافة 30 م",
+   "مسافة 100 م"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 17,
+  "question": "عدم التخفيض من السرعة بصفة ملحوظة يعتبر :",
+  "options": [
+   "مخالفة خطيرة",
+   "جنحة",
+   "مخالفة عادية"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie10/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 18,
+  "question": "أقصى سرعة لهذه العربة :",
+  "options": [
+   "50 كم/س",
+   "25 كم/س",
+   "40 كم/س"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 19,
+  "question": "هذه العلامة تدل على أنا العربة تحمل :",
+  "options": [
+   "مواد آكلة",
+   "مواد سامة",
+   "غاز غير قابيل للإلتهاب"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie10/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 20,
+  "question": "للإعلام عند حادثة ذكر عدد المصابين وحالاتهم :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie10/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 21,
+  "question": "عند نزول المطر ينخفض بصفة خاصة :",
+  "options": [
+   "إحتكاك العجلات بالأرض",
+   "تنخفض مسافة التوقف",
+   "تنخفض مسافة زمان رد الفعل"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie10/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 22,
+  "question": "نقل الأشخاص على عربات غير مهيأة تعرضوا السائق إلى :",
+  "options": [
+   "عقوبة بالسجن فقط",
+   "خطية مالية فقط",
+   "خطية مالية وعقوبات بالسجن"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie10/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 23,
+  "question": "أتوقف قليلا ثم أوصل سيري :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 24,
+  "question": "حمل الأمتعة على سقف العربة :",
+  "options": [
+   "يزيد في إستهلاك الوقود",
+   "ليس له تأثير على إستهلاك الوقود"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie10/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 25,
+  "question": "لي الأولوية أمر",
+  "options": [
+   "أترك الأولوية للسيارة فقط",
+   "أترك الأولوية للسيارة والشاحنة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 26,
+  "question": "",
+  "options": [
+   "أمر قبل السيارة البيضاء",
+   "أترك الأولوية للسياراة البيضاء لأنها متجهة إلى اليسار",
+   "أترك لها الأولوية لأنها قديمة من اليمين"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie10/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 27,
+  "question": "العلامة التي توجد في الإتجاه المعاكس تشير إلى تطبيق الأولوية لليمين :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie10/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 28,
+  "question": "العلامة تعني :",
+  "options": [
+   "مقطع سكة حديدية به مسلك واحد",
+   "مقطع سكت حديد به مسلكين أو أكثر"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 29,
+  "question": "",
+  "options": [
+   "يمكنني السير إلى الأمام فقط",
+   "يمكنني السير إلى اليمين فقط",
+   "يمكنني السير إلى الأمام أو إلى اليمين"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 10,
+  "q": 30,
+  "question": "العلامة تعني :",
+  "options": [
+   "طريق ذات أولوية",
+   "طريق وطنية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie10/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 1,
+  "question": "أبتعد عن العربة أثناء المجاوزة :",
+  "options": [
+   "1 متر",
+   "0.5 متر",
+   "1.5 متر"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie11/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 2,
+  "question": "عمق الأخاديد الأساسية عند ضهور مؤشر التهري :",
+  "options": [
+   "1 مم",
+   "5 مم",
+   "1.6 مم"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie11/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 3,
+  "question": "في هذه الوضعية :",
+  "options": [
+   "أترك الأولوية للدرجة ثم أواصل سيري",
+   "أتوقف",
+   "انعرج إلى اليمين بعد مرور الدراجة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 4,
+  "question": "في هذه الوضعية :",
+  "options": [
+   "اتجاوز السيارة البيضاء",
+   "لا اتجاوز"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 5,
+  "question": "وضعيتي هذه في الوقوف :",
+  "options": [
+   "تضايق مستعملي الطريق",
+   "تتسب في خطر لمستعملي الطريق"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 6,
+  "question": "السيارة الرمادية تقف وتترقب :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 7,
+  "question": "",
+  "options": [
+   "استعمل أضواء الطريق",
+   "استعمل أضواء المقطعة",
+   "استعمل أضواء الضباب فقط"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 8,
+  "question": "العلامة تعني :",
+  "options": [
+   "محطة للحافلات",
+   "ممر خاص للحافلات",
+   "ممر ممنوع على الحافلات"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 9,
+  "question": "لوحات الصانع تحميل :",
+  "options": [
+   "رقم تسجيل العربة",
+   "الوزن الجملي للعربة",
+   "تاريخ أولا إذن بالجولان"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 10,
+  "question": "عند نزول المطر",
+  "options": [
+   "تضاعف مسافة التوقف",
+   "تضاعف مسافة الفرملة",
+   "تضاعف مسافة زمان رد الفعل"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 11,
+  "question": "بجانب الرصيف :",
+  "options": [
+   "يمكني التوقف فقط",
+   "يمكنني الوقوف فقط",
+   "لا يمكنني الوقوف والتوقف"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie11/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 12,
+  "question": "عدم التنازل لسيارات الإسعاف :",
+  "options": [
+   "مخالفة عادية",
+   "جنحة",
+   "مخالفة خطيرة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie11/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 13,
+  "question": "عمر الشاحنة 3 سنوات تخضع للفحص الفني :",
+  "options": [
+   "كل سنة",
+   "كل سنتين",
+   "كل 6 أشهر"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie11/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 14,
+  "question": "ممنوع الرجوع على الأعقاب :",
+  "options": [
+   "في مستوى العلامة فقط",
+   "قبل العلامة وفي مستوى العلامة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 15,
+  "question": "الضوء برتقالي رفاف :",
+  "options": [
+   "أمر بحذر دون التوقف",
+   "الأولوية لليمين",
+   "أقف في مستوى الخط الأبيض"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie11/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 16,
+  "question": "تقاطع طريق مع سكة الحديددية :",
+  "options": [
+   "مجهزة بحواجز ذات تشغيل يدوي",
+   "مجهزة بحواجز ذات تشغيل اتوماتيكي",
+   "مجهزة بحواجز وخطوط كهربائية"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie11/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 17,
+  "question": "قبل الدورنان إلى اليسار :",
+  "options": [
+   "امرو بعد مرور الشاحنة",
+   "امرو بعد مرور الشاحنة والسيارة",
+   "أترك الأولوية إلى اليمين"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 18,
+  "question": "خصم النقاط من مجموع رخصة السياقة يتم :",
+  "options": [
+   "بعد إمضاء المحضر",
+   "من طرف عون المرور عند معينة المخالف",
+   "بعد صدور حكم نهائي من المحكمة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie11/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 20,
+  "question": "زمان رد الفعل مرتبط :",
+  "options": [
+   "بالحالة البدنية والنفسية للسائق",
+   "بحالة الأطواق المطاطية",
+   "بحالة المعبد"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie11/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 21,
+  "question": "يمكنني السير بسرعة :",
+  "options": [
+   "30 كم / س فأكثر",
+   "أقل من 30 كم / س",
+   "30 كم / س سرعة محبذة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie11/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 22,
+  "question": "برخصة سياقة من صنف \"ب\" يمكنني قيادة عربة :",
+  "options": [
+   "من صنف \"ب\" فقط",
+   "من صنف \"ح\"",
+   "من صنف \"أ\""
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 23,
+  "question": "المفترق ذو إتجاه دوراني :",
+  "options": [
+   "أترك الأولوية للسيارة البيضاء",
+   "أمر قبل السيارة البيضاء",
+   "أترك الأولوية إلى اليمين"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie11/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 24,
+  "question": "في هذه الوضعية :",
+  "options": [
+   "أمر في المرتبة الأخيرة",
+   "أمر في المرتبة الثانية",
+   "أمر بعد السيارة الحمراء"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie11/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 25,
+  "question": "في هذا المنحدر الخطير :",
+  "options": [
+   "افسح المجال المرور للشاحنة",
+   "الشاحنة تنحاز لليمين وتترك أولوية المرور"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie11/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 26,
+  "question": "في هذه الحالة :",
+  "options": [
+   "أزيد في السرعة",
+   "استعمل سرعة معتدلة",
+   "انحاز إلى اليسار"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 27,
+  "question": "يجب السير بسرعة :",
+  "options": [
+   "90 كم / س",
+   "50 كم / س",
+   "80 كم / س"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 28,
+  "question": "الأضواء الاضافية الخلفية :",
+  "options": [
+   "لونها أحمر",
+   "لونها أحمر أو برتقالي",
+   "لونها أبيض"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie11/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 29,
+  "question": "نسق التنفس الإصطناعي عند الكهل :",
+  "options": [
+   "من 25 إلى 30 حركة تنفسية",
+   "من 12 إلى 20 حركة تنفسية",
+   "من 5 إلى 10 حركة تنفسية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie11/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 11,
+  "q": 30,
+  "question": "سرعتي 80 كم / س ينجر عنها :",
+  "options": [
+   "خطية مالية اقصاها 100 د",
+   "خصم 4 نقاط",
+   "سحب رخصة السياقة لمدة اقصاها 6 أشهر"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie11/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 1,
+  "question": "حزام الأمان إجباري خارج المناطق البلدية :",
+  "options": [
+   "على السائق فقط",
+   "على السائق والجالس بجانبه",
+   "على كل الراكبين"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie12/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 2,
+  "question": "ماذا تعني هذه العلامة :",
+  "options": [
+   "إتجاه دوراني",
+   "ترك الأولوية لليمين",
+   "ترك الأولوية لليسار واليمين"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie12/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 3,
+  "question": "حصل حادث وتم الإعلام عنه وسيارة الإسعاف قديمة في الطريق :",
+  "options": [
+   "أتوقف",
+   "أمر بحذر",
+   "أعود على الأعقاب"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie12/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 4,
+  "question": "وضعيتي صحيحة للدوران إلى اليسار :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie12/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 5,
+  "question": "من يمروا فالمرتبة الأولى :",
+  "options": [
+   "السيارة الصفراء",
+   "السيارة الحمراء",
+   "سيارتي"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie12/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 6,
+  "question": "الوقوف في هذه الوضعية :",
+  "options": [
+   "يعتبر جنحة",
+   "مخالفة خطيرة",
+   "ينجر عنه سحب رخصة السياقة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie12/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 7,
+  "question": "عند مجاوزة الدراجة يجب ترك مسافة جانبية :",
+  "options": [
+   "بمتر واحد تقريبا",
+   "بنصف متر تقريباً",
+   "بمتر ونصف المتر تقريبا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie12/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 8,
+  "question": "هل يمكن المجاوزة :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie12/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 9,
+  "question": "أقصى سرعة بعد هذه العلامة :",
+  "options": [
+   "50 كم في الساعة",
+   "70 كم في الساعة",
+   "90 كم في الساعة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie12/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 10,
+  "question": "تآكل العجلات يتسبب في :",
+  "options": [
+   "التخفيض في إستهلاك البنزين",
+   "الزيادة في إستهلاك البنزين"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie12/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 11,
+  "question": "هذه العلامة :",
+  "options": [
+   "تمنع المجاوزة",
+   "تنهي منع الوقوف",
+   "تنهي منع المجاوزة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie12/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 12,
+  "question": "أترك أولوية المرور للسيارات البيضاء :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie12/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 13,
+  "question": "في هذا المنعطف يجب التنبيه :",
+  "options": [
+   "بالمنبه الصوتي",
+   "بأضواء الطريق وأضواء المقاطعة",
+   "بأضواء الوضعية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie12/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 14,
+  "question": "بسرعة 100 كم في الساعة تكون مسافة الأمان :",
+  "options": [
+   "30 متر تقريبا",
+   "50 متر تقريبا",
+   "90 متر تقريبا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie12/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 15,
+  "question": "العلامة تعني :",
+  "options": [
+   "محطة للحفلات",
+   "ممر خاص بالحفلات",
+   "ممر ممنوع على الحفلات"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie12/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 16,
+  "question": "اضوء الوضعية الخلفية :",
+  "options": [
+   "بيضاء اللون",
+   "حمراء اللون",
+   "صفراء اللون"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie12/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 17,
+  "question": "عدم ترك الأولوية للمترجلين ينجر عنه :",
+  "options": [
+   "خطية مالية",
+   "سحب 2 من النقاط",
+   "السحب الفوري لرخصة السياقة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie12/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 18,
+  "question": "عندما تكون مصفاة الهواء غير نظيفة تساهم في توسيخ المحرك :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie12/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 19,
+  "question": "",
+  "options": [
+   "مواد سريعة الإلتهاب",
+   "مواد سريعة الإنفجار",
+   "مواد ملوثة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie12/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 20,
+  "question": "",
+  "options": [
+   "أمر دون ترك الأولوية",
+   "أترك الأولوية لليمين",
+   "أترك الأولوية للأمام"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie12/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 21,
+  "question": "يمنع الدوران إلى اليمين :",
+  "options": [
+   "على الحافلات",
+   "على الشاحنات الثقيلة فقط",
+   "على عربات نقل البضائع مهما كان وزنها"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie12/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 22,
+  "question": "عند الوقوف الفجئي :",
+  "options": [
+   "يجب الضغط على الفرامل بقوة لإيقاف العجلات",
+   "يجب الضغط على الفرامل بدون توقيف وتثبيت العجلات",
+   "الاستعانة بالفرامل اليدوية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie12/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 23,
+  "question": "من يمروا فالمرتبة الأخيرة :",
+  "options": [
+   "سيارتي",
+   "السيارة الصفراء",
+   "الشاحنة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie12/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 24,
+  "question": "",
+  "options": [
+   "أمر في المرتبة الأولى",
+   "أمر في المرتبة الثانية",
+   "أمر في المرتبة الثالثة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie12/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 25,
+  "question": "وقوف هذه العربة يعتبر :",
+  "options": [
+   "وقوف خطير",
+   "وقوف مضايق",
+   "وقوف مفرط"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie12/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 26,
+  "question": "لوحة الصانع تحمل :",
+  "options": [
+   "العادة الجملي للركاب",
+   "رقم تسجيل العربة",
+   "العدد الرتبي في نوع العربة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie12/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 27,
+  "question": "الوزن الجملي المرخص فيه لهذه الشاحنة 3500 كغ :",
+  "options": [
+   "سياقاتها برخصة من صنف ب",
+   "برخصة من صنف ب + ه",
+   "برخصة من صنف ج"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie12/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 28,
+  "question": "يشهد مثلث العطب :",
+  "options": [
+   "على مسافات 100 م",
+   "على مسافات 30 م",
+   "على مسافات 50 م"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie12/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 29,
+  "question": "عند السفر لمسافة طويلة يجب الترفيع في قمة ضغط العجلات :",
+  "options": [
+   "من 100 إلى 300 غ",
+   "بأكثر من 500 غ",
+   "المحافظة على نفس قيمة الضغط"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie12/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 12,
+  "q": 30,
+  "question": "في هذه الحالة ذكر وقت إستعمال المضغط إجباري :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie12/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 1,
+  "question": "يطبق تحديد السرعة :",
+  "options": [
+   "قبل وبعد العلامة",
+   "قبل العلامة فقط",
+   "بعد العلامة فقط"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie13/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 2,
+  "question": "يعتبر وقوف هذه العربة :",
+  "options": [
+   "وقوف خطير",
+   "وقوف مضايق"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 3,
+  "question": "لا يمكن للحمولة أن تتجاوز :",
+  "options": [
+   "البلور الأمامي للعربة",
+   "مقدمة العربة",
+   "مؤخرة العربة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 4,
+  "question": "سيلان الزيوت ينجر عنه :",
+  "options": [
+   "سحب رخصة السياقة",
+   "خطية مالية فقط",
+   "خطية مالية وسحب رخصة السياقة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 5,
+  "question": "",
+  "options": [
+   "يمكن مجاوزتها من الجهة اليمنى",
+   "لا يمكن ذلك"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 6,
+  "question": "",
+  "options": [
+   "منع المرور على عربات نقل البضائع مهما كان وزنها",
+   "منع المر على الحفلات",
+   "منع المرور على العربات التي يفوق وزنها 3.5 طن"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie13/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 7,
+  "question": "وضعيتي صحيحة للدوران إلى اليمين :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 8,
+  "question": "عند دخول هذا المأوى يكون الوقوف :",
+  "options": [
+   "مراقب بإسطوانة ومحدد بالوقت",
+   "مجانا وغير مراقب"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie13/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 9,
+  "question": "في هذه الوضعية :",
+  "options": [
+   "أترك الأولوية للشاحنة لأنها عربة ثقيلة",
+   "أترك الأولوية للشاحنة لأنها قديمة من اليمين",
+   "أمر بدون ترك الأولوية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 10,
+  "question": "",
+  "options": [
+   "ركيزة مفترق طرقات",
+   "ركيزة منعرج",
+   "ركيزة تحدد المسافة لمقطع سكت الحديدية"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie13/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 11,
+  "question": "يجب تغير جهة الوقوف يوميا :",
+  "options": [
+   "قبل السادسة صباحا",
+   "بعد منتصف الليل",
+   "مابين الساعة 8:30 والساعة 9 ليلا"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie13/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 12,
+  "question": "في هذه الوضعية :",
+  "options": [
+   "امتثل للإشارة العمودية",
+   "امتثل للإشارة الضوئية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 13,
+  "question": "هذه العربة تنفيذ دخانا المقاييس المسموح بها بقيمة 50% :",
+  "options": [
+   "تخضع للفحص الفانني الدوري",
+   "تخضع للفحص الفني العرضي"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 14,
+  "question": "عنا مجاوزة العربة يجب ترك مسافة جانبية لا تقيل عن :",
+  "options": [
+   "مترين",
+   "نصف متر",
+   "متر واحد"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie13/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 15,
+  "question": "",
+  "options": [
+   "انتظر مرور السيارات الآتية من اليمين",
+   "أمر بدون إنتظار"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 16,
+  "question": "هذه العربة تعرض على الفحص الفني لأول مرة :",
+  "options": [
+   "بعد مضي سنة من تاريخ وضعها في الجولان",
+   "بعد مضي 3 سنوات من تاريخ وضعها في الجولان",
+   "بعد مضي سنتين من تاريخ وضعها في الجولان"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 17,
+  "question": "مسافات زمان رد الفعل مرتبطة أساسا :",
+  "options": [
+   "بحالة السيارة",
+   "بحالة الطريق",
+   "بحالة السائق"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie13/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 18,
+  "question": "",
+  "options": [
+   "أمر بعد مرور السيارتين الزرقاء والبيضاء",
+   "أمر قبل السيارتين الزرقاء والبيضاء",
+   "أمر بعد السيارة الزرقاء"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie13/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 19,
+  "question": "أقصى سرعة لهذه القطار السياحي :",
+  "options": [
+   "50 كم في الساعة",
+   "25 كم في الساعة",
+   "40 كم في الساعة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 20,
+  "question": "تناثر الحصى ينجر عنه :",
+  "options": [
+   "سحب رخصة السياقة",
+   "خطية مالية فقط",
+   "خطية مالية مع السجن"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 21,
+  "question": "يمكنني الوقوف وراء السيارة الصفراء :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 22,
+  "question": "ممنوع الوقوف قرب سكت حديدية خارج مواطن العمران :",
+  "options": [
+   "على مسافة تقل عن 50 م",
+   "على مسافة تقل عن 30 م",
+   "على مسافة تقل عن 150 م"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 23,
+  "question": "العلامة تعني :",
+  "options": [
+   "الوقوف إجباري بعد مسافات 27 م",
+   "إجباري ترك مسافة أمان لا تقيل عن 27 م",
+   "ممنوع الوقوف دون ترك مسافات 27 م بين العربتين"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 24,
+  "question": "منع المرور على العربات :",
+  "options": [
+   "التي يفوق إرتفاعها 3.5 م بإعتبار الحمولة",
+   "التي يفوق إرتفاعها 3.5 م بدون اعتبار الحمولة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie13/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 25,
+  "question": "أهل يمكي المجاوزة :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 26,
+  "question": "أقصى إرتفاع للعربة وهي محملة :",
+  "options": [
+   "4 أمتار إبتداء من سقف العربة",
+   "4 أمتار عن مستوى الأرض",
+   "الإرتفاع غير محدد"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 27,
+  "question": "يجب تغير زيوت المحرك :",
+  "options": [
+   "بإنتظام",
+   "كل ثلاث أشهر",
+   "سنويا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie13/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 28,
+  "question": "أسير داخل هذا المفترق ذو إتجاه الدوراني :",
+  "options": [
+   "أترك الأولوية للسيارة القديمة من اليمين",
+   "أوصل السير دون ترك الأولوية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 29,
+  "question": "أول من يصل إلى مكان الحادث يجب عليه :",
+  "options": [
+   "إعلام السلطة المختصة",
+   "تقديم الإسعافات الأولية",
+   "حماية المكان"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie13/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 13,
+  "q": 30,
+  "question": "أول ما يجب على السائق القيام به :",
+  "options": [
+   "تعديل المرآة العاكسة",
+   "تعديل المصعد",
+   "حمل حزام الأمان"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie13/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 1,
+  "question": "طوق مطاطي ذو هيكل قطري يجب أن يحمل إحدى البيانات التالية :",
+  "options": [
+   "RADIAL",
+   "BIAS-BELTED",
+   "لا يذكر شيء"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie14/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 2,
+  "question": "يحجر الوقوف :",
+  "options": [
+   "خلف السيارة الحمراء",
+   "قبل وبعد العلامة",
+   "قبل العلامة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie14/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 3,
+  "question": "في هذه الحالة :",
+  "options": [
+   "تتضاعف مسافة التوقف",
+   "تتضاعف مسافة الفرملة",
+   "تتضاعف مسافة زمان رد الفعل"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie14/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 4,
+  "question": "الرخصة المطلوبة لسياقة هذه الدرجة النارية :",
+  "options": [
+   "رخصة سياقة من صنف ح",
+   "رخصة سياقة من صنف ج",
+   "رخصة سياقة من صنف أ1 أو من صنف ب"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie14/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 5,
+  "question": "أثر بالسرعة القصوى المسموح بها :",
+  "options": [
+   "مسافة التوقف حوالي 70 متر",
+   "مسافة التوقف حوالي 50 متر",
+   "مسافة التوقف حوالي 20 متر"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie14/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 6,
+  "question": "الأطواق المطاطية على المغزل الأمامي ذات هيكل شعاعي . يجب تركيب :",
+  "options": [
+   "طواق مطاطية ذات هيكل قطري على المغزل الخلفي",
+   "طواق مطاطية ذات هيكل قطري محزم",
+   "طواق مطاطية ذات هيكل شعاعي"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie14/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 7,
+  "question": "وقوف السيارة الرمادية في هذه الوثعية يعرض سائقها إلى :",
+  "options": [
+   "سحب رخصة السياقة",
+   "خطية مالية",
+   "خطية مالية وعقوبة بالسجن"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie14/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 8,
+  "question": "أضواء الوضعية الخلفية الحمراء تشهد في الليل :",
+  "options": [
+   "على مسافات 100 م",
+   "على مسافات 30 م",
+   "على مسافات 150 م"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie14/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 9,
+  "question": "حمل الأمتعة يتسبب عند السير :",
+  "options": [
+   "في الزيادة في إستهلاك الوقود",
+   "في الزيادة في إستهلاك الوقود عند شحنه بالبضاعة فقط",
+   "ليس له تأثير على إستهلاك الوقود"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie14/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 10,
+  "question": "وضع الإشارة الحمراء في مؤخرة الحمولة :",
+  "options": [
+   "كلما تتجاوز الحمولة مأخرة العربة",
+   "كلما تتجاوز الحمولة مأخرة العربة 3 م",
+   "كلما تتجاوز الحمولة مأخرة العربة 1 م"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie14/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 11,
+  "question": "داخل مواطن العمران وقبل مقطع السكة الحديد ب 8 أمتار :",
+  "options": [
+   "يمكنني الوقوف على يمين المعبد",
+   "لا يمكنني الوقوف"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie14/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 12,
+  "question": "العلامة تعني :",
+  "options": [
+   "ممنوع مواصلات السير إلى الأمام",
+   "افسح المجال للسيارات القادمة من الإتجاه المعاكس",
+   "حركة الجولان فوق هذا الجسر ذات إتجاهين"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie14/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 13,
+  "question": "",
+  "options": [
+   "أقف وافسح مجال المرور للشاحنة",
+   "الشاحنة تقف وتنتظر"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie14/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 14,
+  "question": "سائق هذه السيارة يتعرض إلى :",
+  "options": [
+   "خطية مالية اقصاها 300 د",
+   "خصم 4 نقاط",
+   "سحب رخصة السياقة لمدة اقصاها 6 أشهر"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie14/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 15,
+  "question": "هذه العلامة تعني :",
+  "options": [
+   "أقصى سرعة 70 كم / س",
+   "ممنوع الوقوف بعد 70 م",
+   "مسافة الأمان لا تقل عن 70 م"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie14/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 16,
+  "question": "للمحافظة على سلامة البطارية يجب :",
+  "options": [
+   "تغير الماء بإستمرار",
+   "تعديل مستوى الماء",
+   "لا علاقة للماء بسلامة البطارية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie14/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 17,
+  "question": "هذا الرقم يرمز إلى :",
+  "options": [
+   "المواد المحمولة",
+   "المواد المحمولة ونوعية خطرها",
+   "نوعية خطر المواد المحمولة"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie14/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 18,
+  "question": "هذه العلامة تعني :",
+  "options": [
+   "ممنوع الوقوف على مسافة 400 م",
+   "نهاية طريق سيارة بعد 400 م",
+   "نهاية التمتع بالأولوية بعد 400 م"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie14/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 19,
+  "question": "الجولان بشهادة فحص فني منتهية الصلوحية يعتبر :",
+  "options": [
+   "جنحة",
+   "مخالفة خطيرة",
+   "مخالفة عادية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie14/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 20,
+  "question": "يجب أن يكون مدى الرؤية :",
+  "options": [
+   "أطول من مسافات زمان رد الفعل فقط",
+   "أطول من مسافة التوقف",
+   "أطول من مسافة الفرملة فقط"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie14/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 21,
+  "question": "سائق السيارة الحمراء لم يترك الأولوية يتعرض إلى :",
+  "options": [
+   "السحاب الفوري لرخصة السياقة",
+   "عقوبة بالسجن لمدة اقصاها شهر",
+   "خطية مالية اقصاها 60 دينار"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie14/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 22,
+  "question": "",
+  "options": [
+   "أترك الأولوية للشاحنة لأنها على يميني",
+   "أترك الأولوية للشاحنة لأنها عربة ثقيلة",
+   "أمر قبل الشاحنة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie14/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 23,
+  "question": "في هذه الوضعية :",
+  "options": [
+   "بإمكاني الشروع في مجاوزة الشاحنة",
+   "أترقب وأسير خلف الشاحنة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie14/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 24,
+  "question": "عند إشتعال هذا المؤشر يجب :",
+  "options": [
+   "تغير الزيوت في الحال",
+   "مواصلة السير حتى الوصول إلى ورشة تصليح",
+   "توقيف المحرك على الفور"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie14/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 25,
+  "question": "في هذه الحالة :",
+  "options": [
+   "أمر قبل السيارة الزرقاء",
+   "أمر بعد السيارة الزرقاء",
+   "اتمتع بالأولوية في المفترق"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie14/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 26,
+  "question": "في هذا المنحدر :",
+  "options": [
+   "اوقف المحرك",
+   "اضغط على دوست الفصل والوصل",
+   "استعمل إحدى درجات السرعة الدنيا لمزيد التحكم في العربة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie14/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 27,
+  "question": "في هذه الحالة استعمل :",
+  "options": [
+   "أضواء الوضعية",
+   "أضواء التقاطع",
+   "أضواء الطريق"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie14/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 28,
+  "question": "قشع الرئيس إلى الوراء عملية أساسية للقيام بالتنفس الإصطناعي :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie14/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 29,
+  "question": "أثر بسرعة 75 كم في الساعة اتعرض إلى :",
+  "options": [
+   "خصم 4 نقاط",
+   "سحب رخصة السياقة من شهر إلى 6 أشهر",
+   "سحب رخصة السياقة لمدة تصل إلى سنتين"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie14/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 14,
+  "q": 30,
+  "question": "العلامة تعني :",
+  "options": [
+   "إجباري مواصلة السير إلى الأمام",
+   "طريق ذات إتجاه واحد",
+   "طريق ذات أولوية"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie14/30.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 1,
+  "question": "اتجاوز الدراجة النارية :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie15/1.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 2,
+  "question": "",
+  "options": [
+   "الطريق ذات أولوية تنعرج إلى اليسار",
+   "منعرج على اليسار",
+   "إجباري الدوران إلى اليسار"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie15/2.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 3,
+  "question": "",
+  "options": [
+   "ممنوع الرجوع على الأعقاب",
+   "ممنوع الدوران إلى اليسار",
+   "ممنوع الدورن إلى اليسار والرجوع على الأعقاب"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie15/3.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 4,
+  "question": "العلامة تعني :",
+  "options": [
+   "الوقوف بعجلة واحدة على الحاشية",
+   "حاشية الطريق خطيرة",
+   "منحدر خطير"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/4.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 5,
+  "question": "",
+  "options": [
+   "سرعة محبذة",
+   "تحديد السرعة",
+   "أدنى سرعة"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/5.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 6,
+  "question": "أوصل سيري دون توقف :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/6.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 7,
+  "question": "ممنوع الوقوف :",
+  "options": [
+   "قبل العلامة فقط",
+   "بعد العلامة فقط",
+   "قبل وبعد العلامة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie15/7.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 8,
+  "question": "",
+  "options": [
+   "سبيل مخصص لجولان الحافلات",
+   "ممنوع جولان الحافلات",
+   "محطة حافلات"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie15/8.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 9,
+  "question": "",
+  "options": [
+   "منع التوقف فقط على مسافة 50 م",
+   "منع الوقوف على مسافة 50 م",
+   "منع الوقوف والتوقف على مسافة 50 م"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie15/9.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 10,
+  "question": "تقاطع طريق مع سكت حديدية :",
+  "options": [
+   "مجهز بحاجز يدوي",
+   "مجهز بحاجز آلي"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/10.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 11,
+  "question": "نهاية الأولوية",
+  "options": [
+   "نهاية الأولوية بعد 400 م",
+   "بداية الأولوية بعد 400 م"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/11.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 12,
+  "question": "",
+  "options": [
+   "ممر خاص بالمترجلين",
+   "منطقة للمترجلين",
+   "ممنوع على المترجلين"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/12.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 13,
+  "question": "بعد الإشارة الضوئية :",
+  "options": [
+   "مواصلات السير إلى الأمام فقط",
+   "يمكنني الدوران إلى اليسار",
+   "مواصلات السير إلى الأمام أو الدوران إلى اليسار"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie15/13.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 14,
+  "question": "طريق ضيق :",
+  "options": [
+   "من اليمين فقط",
+   "من اليمين واليسار",
+   "من اليسار فقط"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/14.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 15,
+  "question": "ممنوع الجولان :",
+  "options": [
+   "على العربات الثقيلة",
+   "على الشاحنات والحافلات",
+   "على عربات نقل البضائع"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie15/15.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 16,
+  "question": "",
+  "options": [
+   "يمكنني الدوران إلى اليمين",
+   "أوصل السير إلى الأمام",
+   "أقف و انتظر"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie15/16.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 17,
+  "question": "الخروج من طريق سيارة :",
+  "options": [
+   "نعم",
+   "لا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/17.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 18,
+  "question": "",
+  "options": [
+   "اتجاوز السيارة",
+   "لا اتجاوز"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie15/18.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 19,
+  "question": "",
+  "options": [
+   "التمتع بالأولوية بالنسبة للإتجاه المعاكس",
+   "طريق ذات إتجاهين",
+   "الأولوية للإتجاه المعاكس"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/19.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 20,
+  "question": "",
+  "options": [
+   "مواد ملوثة",
+   "مواد خطيرة",
+   "مواد سريعة الإلتهاب"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/20.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 21,
+  "question": "القادمين في ألإتجاه المعاكس تعترضهم :",
+  "options": [
+   "علامة منع : إتجاه ممنوع",
+   "علامة ارشاد : حركة الجولان ذات إتجاه واحد"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/21.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 22,
+  "question": "يوم 12 في شهر :",
+  "options": [
+   "ممنوع الوقوف على اليمين",
+   "ممنوع الوقوف على اليسار",
+   "ممنوع الوقوف بتاتا"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/22.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 23,
+  "question": "",
+  "options": [
+   "منعرج على بعد 50 م",
+   "منعرج بعد 150 م",
+   "منعرجات على مدى 50 م أولها على اليسار"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/23.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 24,
+  "question": "الخط المتقطع :",
+  "options": [
+   "يعلن عن خط متواصل",
+   "يمنع المجاوزة",
+   "يسمح بالمجاوزة"
+  ],
+  "correct": "c",
+  "correctIndex": 2,
+  "image": "serie15/24.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 25,
+  "question": "",
+  "options": [
+   "ممنوع الرجوع على الأعقاب",
+   "ممنوع الدوران إلى اليسار",
+   "ممنوع الدوران إلى اليسار والرجوع على الأعقاب"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/25.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 26,
+  "question": "الضوء برتقالي رفاف :",
+  "options": [
+   "التوقف إجباري حتى بعد مرور السيارة الصفراء",
+   "الإنعراج إلى اليين بدون توقف بعد مرور السيارة الصفراء"
+  ],
+  "correct": "b",
+  "correctIndex": 1,
+  "image": "serie15/26.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 27,
+  "question": "في المفترق القادم :",
+  "options": [
+   "أترك الأولوية لليسار",
+   "أترك الأولوية لليسار واليمين",
+   "أمر بدون ترك الأولوية"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie15/27.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 28,
+  "question": "",
+  "options": [
+   "الخط المتقطع سيصبح متواصلا",
+   "السبيل سيحذف"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie15/28.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 29,
+  "question": "هذه العلامة تعلن عن :",
+  "options": [
+   "منعرجات متتالية أولها على اليسار",
+   "منعرجين خطرين أولها على اليسار",
+   "منعرج واحد خطير على اليسار"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie15/29.jpg",
+  "hasImage": true
+ },
+ {
+  "serie": 15,
+  "q": 30,
+  "question": "",
+  "options": [
+   "أمر قبل السيارة الصفراء والبيضاء",
+   "امتثل للإشارة العمودية",
+   "أمر بعد السيارة الصفراء والبيضاء"
+  ],
+  "correct": "a",
+  "correctIndex": 0,
+  "image": "serie15/30.jpg",
+  "hasImage": true
+ }
+]

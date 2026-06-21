@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.netlify/
+.env
+.env.local
+
+# Médias scrapés (lourds) — ne pas committer (images sur Cloudflare R2)
+scraper/data/
+scraper/download_errors.log
