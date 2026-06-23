@@ -8,10 +8,77 @@ import VipView from './components/VipView.jsx';
 import Testimonials from './components/Testimonials.jsx';
 import StatsView from './components/StatsView.jsx';
 import QuizPlayer from './components/QuizPlayer.jsx';
+import CoachView from './components/CoachView.jsx';
 import { groupBySubcat } from './lib/helpers.js';
+import { dataFetch } from './lib/api.js';
+import { setCoachLicense, setCoachActive, getState } from './lib/store.js';
 
-const TABS = ['series', 'examen', 'vip', 'stats'];
-const hashTab = () => { const h = location.hash.replace('#', ''); return TABS.includes(h) ? h : 'series'; };
+const TABS = ['series', 'examen', 'vip', 'coach', 'stats'];
+// Chaque onglet est une VRAIE URL indexable (plus de #ancre).
+const TAB_PATH = { series: '/', examen: '/examen-blanc', vip: '/examens-vip', coach: '/coach', stats: '/progression' };
+const PATH_TAB = { '/': 'series', '/examen-blanc': 'examen', '/examens-vip': 'vip', '/coach': 'coach', '/progression': 'stats' };
+const SITE = 'https://code-route-tn.pages.dev';
+
+// Onglet correspondant à l'URL courante (+ migration des anciens liens #ancre).
+function tabFromLocation() {
+  const h = location.hash.replace('#', '');
+  if (TABS.includes(h)) return h;
+  const p = location.pathname.replace(/\/+$/, '') || '/';
+  return PATH_TAB[p] || 'series';
+}
+
+// --- SEO par page : titre + description + canonical propres à chaque URL.
+function setMetaTag(attr, key, content) {
+  let el = document.head.querySelector(`meta[${attr}="${key}"]`);
+  if (!el) { el = document.createElement('meta'); el.setAttribute(attr, key); document.head.appendChild(el); }
+  el.setAttribute('content', content);
+}
+function setCanonical(url) {
+  let el = document.head.querySelector('link[rel="canonical"]');
+  if (!el) { el = document.createElement('link'); el.setAttribute('rel', 'canonical'); document.head.appendChild(el); }
+  el.setAttribute('href', url);
+}
+function seoFor(tab) {
+  switch (tab) {
+    case 'examen':
+      return {
+        title: 'Examen blanc du code de la route tunisien (chronométré, façon ATTT) | Code Route TN',
+        desc: "Passe un examen blanc du code de la route tunisien en conditions réelles : chronométré façon ATTT, correction immédiate, toutes catégories, en français et en arabe.",
+      };
+    case 'vip':
+      return {
+        title: 'Examens VIP & questions éliminatoires du code tunisien | Code Route TN',
+        desc: "Entraîne-toi sur les examens VIP du code de la route tunisien : séries spéciales et questions éliminatoires pour ne rien laisser au hasard le jour de l'examen.",
+      };
+    case 'coach':
+      return {
+        title: 'Coach code de la route — révision guidée pour réussir le code tunisien | Code Route TN',
+        desc: "Le mode Coach cible tes points faibles et te fait réviser intelligemment pour décrocher le code de la route tunisien plus vite.",
+      };
+    case 'stats':
+      return {
+        title: 'Ma progression au code de la route tunisien — scores & réussite | Code Route TN',
+        desc: "Suis ta progression à l'épreuve théorique du code tunisien : scores, taux de réussite par série et historique d'entraînement.",
+      };
+    default: // series (accueil)
+      return {
+        title: 'Code de la Route Tunisie — Test du code (toutes catégories, FR/AR) | Code Route TN',
+        desc: "Révise gratuitement le code de la route tunisien : moto, voiture, poids lourd, bus et remorque. Examen blanc chronométré façon ATTT, plus de 11 000 questions en français et en arabe, correction immédiate.",
+      };
+  }
+}
+function applyHead(tab) {
+  const { title, desc } = seoFor(tab);
+  const url = SITE + TAB_PATH[tab];
+  document.title = title;
+  setMetaTag('name', 'description', desc);
+  setMetaTag('property', 'og:title', title);
+  setMetaTag('property', 'og:description', desc);
+  setMetaTag('property', 'og:url', url);
+  setMetaTag('name', 'twitter:title', title);
+  setMetaTag('name', 'twitter:description', desc);
+  setCanonical(url);
+}
 
 // Catégorie « historique » : fiches texte voiture (elpermis) — datamodel différent (texte+options).
 const LEGACY = {
@@ -22,8 +89,12 @@ const CAT_KEY = 'coderoutetn:cat';
 const LANG_KEY = 'coderoutetn:lang';
 
 export default function App() {
-  const [tab, setTabState] = useState(hashTab);
-  const setTab = (t) => { setTabState(t); history.replaceState(null, '', `#${t}`); };
+  const [tab, setTabState] = useState(tabFromLocation);
+  const setTab = (t) => {
+    setTabState(t);
+    const path = TAB_PATH[t];
+    if (location.pathname !== path || location.hash) history.pushState({ tab: t }, '', path);
+  };
 
   const [catalog, setCatalog] = useState(null);     // liste des catégories
   const [catId, setCatId] = useState(() => localStorage.getItem(CAT_KEY) || 'A');
@@ -34,14 +105,42 @@ export default function App() {
   const [quiz, setQuiz] = useState(null);
 
   useEffect(() => {
-    const onHash = () => setTabState(hashTab());
-    window.addEventListener('hashchange', onHash);
-    return () => window.removeEventListener('hashchange', onHash);
+    // Migration : un ancien lien en #onglet devient une URL propre (/onglet),
+    // en conservant les paramètres (?coach=… du retour de paiement).
+    if (location.hash) {
+      const h = location.hash.replace('#', '');
+      history.replaceState(null, '', (TABS.includes(h) ? TAB_PATH[h] : location.pathname) + location.search);
+    }
+    const onPop = () => setTabState(tabFromLocation());
+    window.addEventListener('popstate', onPop);
+    return () => window.removeEventListener('popstate', onPop);
+  }, []);
+
+  // Met à jour titre/description/canonical à chaque changement de page.
+  useEffect(() => { applyHead(tab); }, [tab]);
+
+  // Retour de paiement Flouci (?coach=licence) + (re)vérification serveur du Pass Coach.
+  // Anti-triche : on n'active le Coach que si le serveur confirme la licence signée.
+  useEffect(() => {
+    const params = new URLSearchParams(location.search);
+    const fromPay = params.get('coach');
+    if (fromPay) {
+      setCoachLicense(fromPay);
+      params.delete('coach'); params.delete('pay');
+      const q = params.toString();
+      history.replaceState(null, '', location.pathname + (q ? `?${q}` : '') + location.hash);
+    }
+    const token = fromPay || getState().coachLicense;
+    if (!token) { setCoachActive(false); return; }
+    fetch(import.meta.env.BASE_URL + 'api/entitlement?token=' + encodeURIComponent(token))
+      .then((r) => r.json())
+      .then((d) => setCoachActive(!!d.valid))
+      .catch(() => { /* hors-ligne : on garde l'état actuel */ });
   }, []);
 
   // Catalogue des catégories (image, depuis R2) + la catégorie texte historique.
   useEffect(() => {
-    fetch(import.meta.env.BASE_URL + 'data/crt/index.json')
+    dataFetch('data/crt/index.json')
       .then((r) => r.json())
       .then((idx) => setCatalog([...idx.categories, LEGACY]))
       .catch(() => setCatalog([LEGACY]));   // au pire, juste les fiches texte
@@ -57,7 +156,7 @@ export default function App() {
     if (!cat) return;
     setLoadingCat(true); setRows(null); setErr(null);
     const kind = cat.kind || 'image';
-    fetch(import.meta.env.BASE_URL + cat.data)
+    dataFetch(cat.data)
       .then((r) => r.json())
       .then((data) => { setRows(data.map((q) => ({ ...q, kind }))); })
       .catch((e) => setErr(String(e)))
@@ -146,16 +245,19 @@ export default function App() {
         )}
 
         <div className="tabs">
-          <button className={`tab ${tab === 'series' ? 'active' : ''}`} onClick={() => setTab('series')}>
+          <button className={`tab ${tab === 'series' ? 'active' : ''}`} aria-current={tab === 'series' ? 'page' : undefined} onClick={() => setTab('series')}>
             Séries{rows ? ` · ${seriesCount}` : ''}
           </button>
-          <button className={`tab ${tab === 'examen' ? 'active' : ''}`} onClick={() => setTab('examen')}>
+          <button className={`tab ${tab === 'examen' ? 'active' : ''}`} aria-current={tab === 'examen' ? 'page' : undefined} onClick={() => setTab('examen')}>
             Examen blanc
           </button>
-          <button className={`tab tab-vip ${tab === 'vip' ? 'active' : ''}`} onClick={() => setTab('vip')}>
+          <button className={`tab tab-vip ${tab === 'vip' ? 'active' : ''}`} aria-current={tab === 'vip' ? 'page' : undefined} onClick={() => setTab('vip')}>
             ★ Examens VIP
           </button>
-          <button className={`tab ${tab === 'stats' ? 'active' : ''}`} onClick={() => setTab('stats')}>
+          <button className={`tab tab-coach ${tab === 'coach' ? 'active' : ''}`} aria-current={tab === 'coach' ? 'page' : undefined} onClick={() => setTab('coach')}>
+            Coach
+          </button>
+          <button className={`tab ${tab === 'stats' ? 'active' : ''}`} aria-current={tab === 'stats' ? 'page' : undefined} onClick={() => setTab('stats')}>
             Ma progression
           </button>
         </div>
@@ -168,6 +270,7 @@ export default function App() {
             {tab === 'series' && <SeriesView groups={groups} catId={cat.id} lang={effLang} allQuestions={visibleRows} onPlay={play} />}
             {tab === 'examen' && <ExamView catId={cat.id} catLabel={cat.label} lang={effLang} examPool={examPool} onPlay={play} />}
             {tab === 'vip' && <VipView catId={cat.id} catLabel={cat.label} lang={effLang} examPool={examPool} criticalPool={criticalPool} onPlay={play} />}
+            {tab === 'coach' && <CoachView catId={cat.id} catLabel={cat.label} allQuestions={visibleRows} onPlay={play} />}
             {tab === 'stats' && <StatsView groups={groups} catId={cat.id} catLabel={cat.label} />}
             {tab === 'series' && <Testimonials />}
           </>
