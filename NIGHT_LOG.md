@@ -10,6 +10,29 @@ Pour tout annuler : rester sur `main` (la branche nuit n'affecte pas la prod).
 
 ---
 
+## ✅ BILAN DE LA NUIT (à lire au réveil)
+
+**Rien n'est en ligne** (produit payant) : tout est sur la branche **`nuit-23-06`**,
+build vérifié OK, **paiement intact**. **3 améliorations** :
+
+1. **Accessibilité** — `aria-current` sur l'onglet actif (le reste était déjà bien accessible).
+2. **Mobile vérifié** — 0 débordement horizontal à 390px → rien à corriger.
+3. **Micro-interactions** — la bonne réponse « pop », la mauvaise « shake », retour tactile,
+   spinner jaune de chargement (thème sombre « conduite de nuit » respecté, zéro emoji).
+
+### ▶️ Pour mettre en ligne (quand tu as relu et que ça te plaît)
+```
+cd C:\Users\louey\code-route-tn
+git checkout main
+git merge nuit-23-06
+cd app && npm run build
+npx wrangler pages deploy dist --project-name=code-route-tn
+```
+### ❌ Pour jeter la nuit au lieu de fusionner
+Depuis `main` : `git branch -D nuit-23-06`
+
+---
+
 ## Nuit du 2026-06-23
 
 ### 1. Accessibilité — onglet actif ✅
