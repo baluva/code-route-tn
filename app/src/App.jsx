@@ -263,7 +263,7 @@ export default function App() {
         </div>
 
         {err && <div className="empty">Erreur de chargement des données : {err}</div>}
-        {!err && (loadingCat || !visibleRows) && <div className="empty">Chargement de la catégorie {cat?.label}…</div>}
+        {!err && (loadingCat || !visibleRows) && <div className="empty"><span className="spinner" aria-hidden="true" />Chargement de la catégorie {cat?.label}…</div>}
 
         {!err && visibleRows && (
           <>

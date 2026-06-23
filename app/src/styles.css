@@ -384,3 +384,43 @@ a:hover { text-decoration: underline; }
   .testi-grid { grid-template-columns: 1fr; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before { animation: none !important; transition: none !important; } }
+
+/* ===== Coach (points faibles) ===== */
+.coach { max-width: 760px; margin: 0 auto; }
+.coach-head { margin-bottom: 18px; }
+.coach-head h2 { font-size: 28px; font-weight: 800; margin: 8px 0 6px; }
+.coach-head p { margin: 0; max-width: 60ch; }
+.coach-empty { background: var(--tar2); border: 1px solid var(--edge); border-radius: 14px; padding: 26px; color: var(--ink2); text-align: center; }
+.coach-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 18px; }
+.coach-cell { background: var(--tar2); border: 1px solid var(--edge); border-radius: 13px; padding: 15px 10px; text-align: center; }
+.coach-cell.danger { border-color: rgba(251,59,83,.4); }
+.coach-cell .big { display: block; font-size: 26px; font-weight: 800; font-family: var(--disp); color: var(--ink); }
+.coach-cell.danger .big { color: var(--stop); }
+.coach-cell .lbl { font-size: 10.5px; color: var(--ink3); text-transform: uppercase; letter-spacing: .4px; }
+.coach-themes { background: var(--tar2); border: 1px solid var(--edge); border-radius: 14px; padding: 16px 18px; margin-bottom: 16px; }
+.coach-themes.locked { filter: blur(3px); opacity: .6; pointer-events: none; user-select: none; }
+.coach-themes h3 { margin: 0 0 12px; }
+.ct-row { display: flex; align-items: center; gap: 12px; margin-bottom: 9px; }
+.ct-name { flex: none; width: 42%; font-size: 13.5px; font-weight: 600; color: var(--ink2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.ct-bar { flex: 1; height: 9px; background: #06070b; border-radius: 99px; overflow: hidden; }
+.ct-bar > i { display: block; height: 100%; background: linear-gradient(90deg, var(--mark), var(--stop)); }
+.ct-val { flex: none; width: 28px; text-align: right; font-weight: 800; font-family: var(--disp); color: var(--ink); }
+.coach-paywall { background: var(--tar2); border: 1px solid rgba(245,197,24,.4); border-radius: 16px; padding: 22px;
+  display: flex; flex-direction: column; gap: 14px; box-shadow: 0 14px 36px rgba(0,0,0,.4); }
+.coach-paywall h3 { margin: 8px 0 0; font-size: 20px; }
+.coach-paywall p { margin: 0; }
+.coach-msg { color: var(--mark2); font-size: 13.5px; font-weight: 600; }
+
+/* ===== Micro-interactions ===== */
+/* (désactivées automatiquement par le bloc prefers-reduced-motion plus haut) */
+@keyframes pop { 0% { transform: scale(1); } 40% { transform: scale(1.025); } 100% { transform: scale(1); } }
+@keyframes shake { 0%, 100% { transform: translateX(0); } 20% { transform: translateX(-5px); } 40% { transform: translateX(5px); } 60% { transform: translateX(-3px); } 80% { transform: translateX(3px); } }
+.choice.correct { animation: pop .3s ease-out; }
+.choice.wrong { animation: shake .35s ease-out; }
+.choice.correct .key { animation: pop .4s ease-out .05s; }
+/* Retour tactile au clic */
+.btn:active, .choice:active:not(:disabled), .tab:active, .catchip:active { transform: translateY(1px) scale(.99); }
+/* Spinner de chargement (accent jaune « marquage routier ») */
+.spinner { display: inline-block; width: 16px; height: 16px; vertical-align: -3px; margin-right: 9px;
+  border: 2px solid var(--edge); border-top-color: var(--mark); border-radius: 50%; animation: spin .7s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
